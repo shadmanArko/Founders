@@ -1,0 +1,29 @@
+{
+  "tiles":
+          [
+            { 
+              "id":"1", 
+              "tileName":"Grassland",
+              "xPosition":0,
+              "yPosition":0,
+              "elevation":0.20000000298023225,
+              "moisture":0.5
+            },
+            {
+              "id":"2",
+              "tileName":"Forest",
+              "xPosition":1,
+              "yPosition":0,
+              "elevation":0.4000000059604645,
+              "moisture":0.800000011920929
+            },
+            {
+              "id":"3",
+              "tileName":"Mountain",
+              "xPosition":1,
+              "yPosition":1,
+              "elevation":0.800000011920929,
+              "moisture":0.20000000298023225
+            }
+          ]
+}

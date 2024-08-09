@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63bf7a34-6951-411f-be01-6fe61fd1add0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../ASP.NET.ProjectTime/ASP.NET.ProjectTime/Services/Mod/AssemblyLoader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Test02/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Test02/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Test02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Test02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test02/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test02/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test02/bin/Debug/Test02.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test02/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test02/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test02/obj/Debug/Test02.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test02/obj/Debug/Test02.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test02/obj/Debug/Test02.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test02/obj/Debug/Test02.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ASP.NET.ProjectTime/ASP.NET.ProjectTime/ASP.NET.ProjectTime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ASP.NET.ProjectTime/ASP.NET.ProjectTime/ASP.NET.ProjectTime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ASP.NET.ProjectTime/ASP.NET.ProjectTime/bin/Debug/ASP.NET.ProjectTime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ASP.NET.ProjectTime/ASP.NET.ProjectTime/bin/Debug/ASP.NET.ProjectTime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ASP.NET.ProjectTime/ASP.NET.ProjectTime/obj/Debug/ASP.NET.ProjectTime.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ASP.NET.ProjectTime/ASP.NET.ProjectTime/obj/Debug/ASP.NET.ProjectTime.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ASP.NET.ProjectTime/ASP.NET.ProjectTime/obj/Debug/ASP.NET.ProjectTime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ASP.NET.ProjectTime/ASP.NET.ProjectTime/obj/Debug/ASP.NET.ProjectTime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assembly.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assembly.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SendMassage/SendMassage/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SendMassage/SendMassage/Class1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SendMassage/SendMassage/bin/Debug/net7.0/SendMassage.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SendMassage/SendMassage/bin/Debug/net7.0/SendMassage.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SendMassage/SendMassage/obj/Debug/net7.0/SendMassage.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SendMassage/SendMassage/obj/Debug/net7.0/SendMassage.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SendMassage/SendMassage/obj/Debug/net7.0/ref/SendMassage.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SendMassage/SendMassage/obj/Debug/net7.0/ref/SendMassage.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SendMassage/SendMassage/obj/Debug/net7.0/refint/SendMassage.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SendMassage/SendMassage/obj/Debug/net7.0/refint/SendMassage.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message.json" beforeDir="false" afterPath="$PROJECT_DIR$/../message.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Unity.ProjectTime/Assets/NuGet.config.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Unity.ProjectTime/Assets/NuGet.config.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Unity.ProjectTime/Assets/Plugins/ASP.NET.ProjectTime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Unity.ProjectTime/Assets/Plugins/ASP.NET.ProjectTime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Unity.ProjectTime/Assets/_Project/Scenes/Main Game/Map.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Unity.ProjectTime/Assets/_Project/Scenes/Main Game/Map.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Unity.ProjectTime/Assets/_Project/Scripts/zzz_Testing/Mod Testing/GetMassage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Unity.ProjectTime/Assets/_Project/Scripts/zzz_Testing/Mod Testing/GetMassage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Unity.ProjectTime/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Unity.ProjectTime/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2SNWZF1xE4gtgNlGPIRFOP2y2Z3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\User\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\User\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\User\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63bf7a34-6951-411f-be01-6fe61fd1add0" name="Changes" comment="" />
+      <created>1688987573000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688987573000</updated>
+      <workItem from="1688987574036" duration="1273000" />
+      <workItem from="1688992581197" duration="765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

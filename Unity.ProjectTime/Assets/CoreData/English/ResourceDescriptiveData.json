@@ -1,0 +1,17 @@
+{
+  "naturalResourceDescriptiveDatas": 
+  [
+    {
+      "label": "rice",
+      "name": "Rice",
+      "category": "Staple",
+      "extractionBuilding": "Farm"
+    }, 
+    {
+    "label": "corn",
+    "name": "Corn",
+    "category": "Staple",
+    "extractionBuilding": "Farm"
+  }
+  ]
+}

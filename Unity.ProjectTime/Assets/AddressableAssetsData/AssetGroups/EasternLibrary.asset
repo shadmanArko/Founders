@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EasternLibrary
+  m_EditorClassIdentifier: 
+  m_GroupName: EasternLibrary
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c4ac156e286b19543b767de5b9ae98c3
+  m_SerializeEntries:
+  - m_GUID: 9e246b367aaf79a4ba762f25906bbef0
+    m_Address: Assets/_Project/AddressableAssets/Buildings/Eastern/Eastern Library
+      1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 93be8f73b48d0b143869bd59e08d8d90, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d9e1a310fc84a754496361fda11d33d3, type: 2}
+    - {fileID: 11400000, guid: 9d2a4ce46fd252a47aad25efba91720c, type: 2}

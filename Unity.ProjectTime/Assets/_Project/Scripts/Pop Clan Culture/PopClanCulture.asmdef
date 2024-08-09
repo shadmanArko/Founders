@@ -1,0 +1,19 @@
+{
+    "name": "PopClanCulture",
+    "rootNamespace": "",
+    "references": [
+        "GUID:29d97f564e4b9af42a2a3dd67789f072",
+        "GUID:fbe77266b6e43cc46a999fa71d8c7325",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:876d8395d35ed1e4abcd07203f1f6335"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

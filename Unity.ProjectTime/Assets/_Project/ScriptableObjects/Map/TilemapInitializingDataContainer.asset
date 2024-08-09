@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bca7b48f09c435b89b7f26689ea6d3c, type: 3}
+  m_Name: TilemapInitializingDataContainer
+  m_EditorClassIdentifier: 
+  gridSizeX: 32
+  gridSizeY: 20
+  chunkTileSize: 2
+  meshDivisions: 8
+  numberOfSlots: 16
+  tileMeshRendererPrefab: {fileID: 816986488522586761, guid: 045e1bab53eff9b4b9effa4dbb4348d5,
+    type: 3}
+  saveDataScriptableObject: {fileID: 11400000, guid: 2e8c3601f9902534a971845c610ecc91,
+    type: 2}
+  tileNameGeneratorDataContainerScriptableObject: {fileID: 11400000, guid: be88e15b0d18b2841ac7762a5a90e0ac,
+    type: 2}
+  landHeight: 0.4
+  coastHeight: 0.2
+  riverHeight: 0.2
+  lakeHeight: 0.2
+  mountainHeight: 0.75
+  hillHeight: 0.65
+  oceanHeight: 0
+  grassLandColor: {r: 0.5366363, g: 0.735849, b: 0.045122836, a: 1}
+  tundraColor: {r: 0.26415092, g: 0.25293696, b: 0.25293696, a: 1}
+  dessertColor: {r: 0.8113208, g: 0.682308, b: 0.03444285, a: 1}
+  plainsColor: {r: 0.31132078, g: 0.31132078, b: 0.31132078, a: 1}
+  dryLandColor: {r: 0.6027775, g: 0.764151, b: 0.54427737, a: 1}
+  forestColor: {r: 0.38679248, g: 0.3320712, b: 0.13318796, a: 1}
+  jungleColor: {r: 0.47058824, g: 0, b: 0.04019524, a: 1}
+  snowColor: {r: 1, g: 1, b: 1, a: 1}
+  coastColor: {r: 0.38020647, g: 0.8481182, b: 0.9056604, a: 1}
+  riverColor: {r: 0, g: 0, b: 0, a: 1}
+  lakeColor: {r: 0.06074225, g: 0.5440826, b: 0.8584906, a: 1}
+  mountainColor: {r: 0.8018868, g: 0.4847767, b: 0.2004717, a: 1}
+  hillColor: {r: 0.6698113, g: 0.3254272, b: 0.3254272, a: 1}
+  oceanColor: {r: 0.038714837, g: 0.4014833, b: 0.5471698, a: 1}
+  swampColor: {r: 1, g: 0, b: 0, a: 1}
+  treePrefabs:
+  - {fileID: 6502368877064450283, guid: a12d77a5bc57b354d8b00d9ea1d6f8ca, type: 3}
+  - {fileID: 8086246554564310560, guid: cf4a43b0dfa7de543992e94a366ca7f0, type: 3}
+  - {fileID: 1099481188886282446, guid: dcc6ce38d8546594481f641f4ef62dec, type: 3}
+  - {fileID: 3946195004660942736, guid: d8dff8ff30b3353428f43da979d554f2, type: 3}
+  - {fileID: 6703352391041362940, guid: 426cf23f30e447f45907c3691628b68a, type: 3}
+  jungleTreePrefabs:
+  - {fileID: 1099481188886282446, guid: dcc6ce38d8546594481f641f4ef62dec, type: 3}
+  forestTreePrefabs:
+  - {fileID: 6502368877064450283, guid: a12d77a5bc57b354d8b00d9ea1d6f8ca, type: 3}
+  - {fileID: 8086246554564310560, guid: cf4a43b0dfa7de543992e94a366ca7f0, type: 3}
+  - {fileID: 3946195004660942736, guid: d8dff8ff30b3353428f43da979d554f2, type: 3}
+  - {fileID: 6703352391041362940, guid: 426cf23f30e447f45907c3691628b68a, type: 3}
+  numberOfTreesPerTile: 15
+  resourcesContainer: {fileID: 11400000, guid: 3fa49524a01ac3c45a9c9f0274519a82, type: 2}
+  resourceGroups:
+  - resourceGroupName: Staple
+    numberOfResourceToSpawn: 5
+    isMandatory: 1
+    optionalProbability: 0
+  - resourceGroupName: Edible Animals
+    numberOfResourceToSpawn: 4
+    isMandatory: 1
+    optionalProbability: 0
+  - resourceGroupName: Work Animals
+    numberOfResourceToSpawn: 3
+    isMandatory: 0
+    optionalProbability: 100
+  - resourceGroupName: Precious Minables
+    numberOfResourceToSpawn: 3
+    isMandatory: 1
+    optionalProbability: 0
+  - resourceGroupName: Water Luxuries
+    numberOfResourceToSpawn: 3
+    isMandatory: 0
+    optionalProbability: 75
+  - resourceGroupName: Water Generics
+    numberOfResourceToSpawn: 5
+    isMandatory: 1
+    optionalProbability: 0
+  - resourceGroupName: Must Haves
+    numberOfResourceToSpawn: 2
+    isMandatory: 1
+    optionalProbability: 0
+  - resourceGroupName: Other Edibles
+    numberOfResourceToSpawn: 2
+    isMandatory: 1
+    optionalProbability: 0
+  - resourceGroupName: Textile
+    numberOfResourceToSpawn: 2
+    isMandatory: 1
+    optionalProbability: 0
+  - resourceGroupName: Other Rare
+    numberOfResourceToSpawn: 2
+    isMandatory: 1
+    optionalProbability: 0
+  desertMaterials:
+  - {fileID: 2100000, guid: e8c4a9bd9bed46b459785cd9da8be34c, type: 2}
+  - {fileID: 2100000, guid: d34623729312f374bbdbc5e208aa0628, type: 2}
+  - {fileID: 2100000, guid: 501a609f419b6b942b3ad1d0eab56ac2, type: 2}
+  dryLandMaterials:
+  - {fileID: 2100000, guid: 0ef5b9f3f7962e94fa4842e019f7812c, type: 2}
+  - {fileID: 2100000, guid: 0ccf0521ef0c29a478e792db0586cf1e, type: 2}
+  - {fileID: 2100000, guid: 8431cf3973ac87241a0dc7cbabc0b18c, type: 2}
+  grassLandMaterials:
+  - {fileID: 2100000, guid: 97cdd36cda1289c45b99c1ecd82949a6, type: 2}
+  - {fileID: 2100000, guid: cf6758921db0b4a43b0a76a6c545ade3, type: 2}
+  - {fileID: 2100000, guid: cec5059817b7c8145ae1f22bd432eb33, type: 2}
+  plainsMaterials:
+  - {fileID: 2100000, guid: 8d6566f7d6f6bd348887582c8c0d9ef6, type: 2}
+  - {fileID: 2100000, guid: b12c1ac357a5a364589bc256d68fdb36, type: 2}
+  - {fileID: 2100000, guid: 93eb83165925bb343940edb09abfd01a, type: 2}
+  snowMaterials:
+  - {fileID: 2100000, guid: 14f286272a6cd164cad8acb25c4d6724, type: 2}
+  - {fileID: 2100000, guid: 0c598d6960e6668438121a58302865c4, type: 2}
+  - {fileID: 2100000, guid: e3d10696f59c47446b4299023696fa29, type: 2}
+  tundraMaterials:
+  - {fileID: 2100000, guid: e1b4f4feb2dea8b4b8f559dd4305996b, type: 2}
+  - {fileID: 2100000, guid: a401f138e82007643a2ff6f0f0ec94fb, type: 2}
+  - {fileID: 2100000, guid: 2df781994764d2c47955ca66e2ec0506, type: 2}
+  mountainMaterials:
+  - {fileID: 2100000, guid: 6c7e608b31f45644daab434cf854a9d3, type: 2}
+  - {fileID: 2100000, guid: 155f5e6e85c24294c939d39f4c288c20, type: 2}
+  - {fileID: 2100000, guid: 6fc7ff29915200c42a79a853a97ef9c4, type: 2}
+  subcontinentsContainer: {fileID: 11400000, guid: 37e2966bb55c23b42bd7faee9b21cacf,
+    type: 2}

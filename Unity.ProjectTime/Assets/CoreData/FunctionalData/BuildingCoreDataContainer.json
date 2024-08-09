@@ -1,0 +1,414 @@
+﻿{
+  "buildingCoreDatas": [
+    {
+      "Label": "GatheringHuts",
+      "Category": "Extractive",
+      "BuildingMaterialCost": 50.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 2,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "WoodcuttersLodge",
+      "Category": "Extractive",
+      "BuildingMaterialCost": 80.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 3,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Mine",
+      "Category": "Extractive",
+      "BuildingMaterialCost": 100.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 3,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Farm",
+      "Category": "Extractive",
+      "BuildingMaterialCost": 100.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 3,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Plantation",
+      "Category": "Extractive",
+      "BuildingMaterialCost": 120.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 3,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Fields",
+      "Category": "Extractive",
+      "BuildingMaterialCost": 100.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 3,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "FishingBoats",
+      "Category": "Extractive",
+      "BuildingMaterialCost": 100.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 3,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Granary",
+      "Category": "Economic",
+      "BuildingMaterialCost": 180.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 1,
+      "MaximumPopCapacity": 1,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Market",
+      "Category": "Economic",
+      "BuildingMaterialCost": 240.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 10,
+      "BuildingTime": 0,
+      "BuildingSize": 1
+    },
+    {
+      "Label": "Mill",
+      "Category": "Economic",
+      "BuildingMaterialCost": 200.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 1,
+      "MaximumPopCapacity": 2,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Smithy",
+      "Category": "Economic",
+      "BuildingMaterialCost": 200.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 1,
+      "MaximumPopCapacity": 2,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Sawmill",
+      "Category": "Economic",
+      "BuildingMaterialCost": 200.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 1,
+      "MaximumPopCapacity": 2,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Tannery",
+      "Category": "Economic",
+      "BuildingMaterialCost": 200.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 1,
+      "MaximumPopCapacity": 2,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Dock",
+      "Category": "Economic",
+      "BuildingMaterialCost": 240.0,
+      "GoldCost": 0.0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 5,
+      "BuildingTime": 0,
+      "BuildingSize": 3
+    },
+    {
+      "Label": "CraftsmansQuarters",
+      "Category": "Production",
+      "BuildingMaterialCost": 280,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 6,
+      "BuildingTime": 0,
+      "BuildingSize": 3
+    },
+    {
+      "Label": "GlassworkersQuarters",
+      "Category": "Production",
+      "BuildingMaterialCost": 400,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 6,
+      "BuildingTime": 0,
+      "BuildingSize": 3
+    },
+    {
+      "Label": "TailorsQuarters",
+      "Category": "Production",
+      "BuildingMaterialCost": 400,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 6,
+      "BuildingTime": 0,
+      "BuildingSize": 3
+    },
+    {
+      "Label": "FurnitureQuarters",
+      "Category": "Production",
+      "BuildingMaterialCost": 400,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 6,
+      "BuildingTime": 0,
+      "BuildingSize": 3
+    },
+    {
+      "Label": "LivingQuarters",
+      "Category": "Production",
+      "BuildingMaterialCost": 250,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 4,
+      "MaximumPopCapacity": 8,
+      "BuildingTime": 0,
+      "BuildingSize": 3
+    },
+    {
+      "Label": "MetalWorks",
+      "Category": "Production",
+      "BuildingMaterialCost": 150,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 3,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "JewellersQuarters",
+      "Category": "Production",
+      "BuildingMaterialCost": 420,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 6,
+      "BuildingTime": 0,
+      "BuildingSize": 3
+    },
+    {
+      "Label": "Winery",
+      "Category": "Production",
+      "BuildingMaterialCost": 180,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 3,
+      "BuildingTime": 0,
+      "BuildingSize": 1
+    },
+    {
+      "Label": "Statue",
+      "Category": "Cultural",
+      "BuildingMaterialCost": 80,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 0,
+      "MaximumPopCapacity": 0,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Amphitheatre",
+      "Category": "Cultural",
+      "BuildingMaterialCost": 180,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 5,
+      "BuildingTime": 0,
+      "BuildingSize": 1
+    },
+    {
+      "Label": "Stadion",
+      "Category": "Cultural",
+      "BuildingMaterialCost": 300,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 6,
+      "BuildingTime": 0,
+      "BuildingSize": 2
+    },
+    {
+      "Label": "Barracks",
+      "Category": "Military",
+      "BuildingMaterialCost": 180,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 4,
+      "BuildingTime": 0,
+      "BuildingSize": 1
+    },
+    {
+      "Label": "Stables",
+      "Category": "Military",
+      "BuildingMaterialCost": 240,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 4,
+      "BuildingTime": 0,
+      "BuildingSize": 1
+    },
+    {
+      "Label": "ArcheryRange",
+      "Category": "Military",
+      "BuildingMaterialCost": 220,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 4,
+      "BuildingTime": 0,
+      "BuildingSize": 1
+    },
+    {
+      "Label": "SiegeWorkshop",
+      "Category": "Military",
+      "BuildingMaterialCost": 240,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 4,
+      "BuildingTime": 0,
+      "BuildingSize": 1
+    },
+    {
+      "Label": "Fort",
+      "Category": "Military",
+      "BuildingMaterialCost": 200,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 6,
+      "BuildingTime": 0,
+      "BuildingSize": 1
+    },
+    {
+      "Label": "Castle",
+      "Category": "Military",
+      "BuildingMaterialCost": 300,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 4,
+      "MaximumPopCapacity": 6,
+      "BuildingTime": 0,
+      "BuildingSize": 2
+    },
+    {
+      "Label": "Library",
+      "Category": "Research",
+      "BuildingMaterialCost": 8,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 3,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "University",
+      "Category": "Research",
+      "BuildingMaterialCost": 8,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 5,
+      "BuildingTime": 0,
+      "BuildingSize": 2
+    },
+    {
+      "Label": "Megalith",
+      "Category": "Religious",
+      "BuildingMaterialCost": 20,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 1,
+      "MaximumPopCapacity": 1,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Shrine",
+      "Category": "Religious",
+      "BuildingMaterialCost": 20,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 1,
+      "MaximumPopCapacity": 2,
+      "BuildingTime": 0,
+      "BuildingSize": 0
+    },
+    {
+      "Label": "Temple",
+      "Category": "Religious",
+      "BuildingMaterialCost": 20,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 8,
+      "BuildingTime": 0,
+      "BuildingSize": 1
+    },
+    {
+      "Label": "VillageCenter",
+      "Category": "Government",
+      "BuildingMaterialCost": 0,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 0,
+      "MaximumPopCapacity": 0,
+      "BuildingTime": 0,
+      "BuildingSize": 3
+    },
+    {
+      "Label": "TownSquare",
+      "Category": "Government",
+      "BuildingMaterialCost": 0,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 4,
+      "BuildingTime": 0,
+      "BuildingSize": 3
+    },
+    {
+      "Label": "Palace",
+      "Category": "Government",
+      "BuildingMaterialCost": 0,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 2,
+      "MaximumPopCapacity": 4,
+      "BuildingTime": 0,
+      "BuildingSize": 1
+    },
+    {
+      "Label": "CityCenter",
+      "Category": "Government",
+      "BuildingMaterialCost": 0,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 3,
+      "MaximumPopCapacity": 5,
+      "BuildingTime": 0,
+      "BuildingSize": 3
+    },
+    {
+      "Label": "CourtHouse",
+      "Category": "Government",
+      "BuildingMaterialCost": 0,
+      "GoldCost": 0,
+      "MinimumPopCapacity": 0,
+      "MaximumPopCapacity": 0,
+      "BuildingTime": 0,
+      "BuildingSize": 1
+    }
+  ]
+}

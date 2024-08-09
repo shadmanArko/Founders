@@ -1,0 +1,25 @@
+{
+  "playableCultures": 
+  [
+    {
+      "label": "han",
+      "cultureNamingGroup": "EastAsia",
+      "buildingVariationClass": "Eastern"
+    }, 
+    {
+      "label": "gothia",
+      "cultureNamingGroup": "Germanic",
+      "buildingVariationClass": "Western"
+    },
+    {
+      "label": "alemannia",
+      "cultureNamingGroup": "Germanic",
+      "buildingVariationClass": "Western"
+    },
+    {
+      "label": "assyria",
+      "cultureNamingGroup": "Afroasiatic",
+      "buildingVariationClass": "Indo-Persian"
+    }
+  ]
+}

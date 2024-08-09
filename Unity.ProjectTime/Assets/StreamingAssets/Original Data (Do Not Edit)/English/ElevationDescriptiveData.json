@@ -1,0 +1,17 @@
+{
+  "elevationDescriptiveDatas": 
+  [
+    {
+      "label": "flat",
+      "name": "Flat"
+    }, 
+    {
+    "label": "hill",
+    "name": "Hill"
+    },
+    {
+      "label": "mountain",
+      "name": "Mountain"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EasternFarm
+  m_EditorClassIdentifier: 
+  m_GroupName: EasternFarm
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 03e7f568395e8744b96e11769b6d0750
+  m_SerializeEntries:
+  - m_GUID: f1d97218ea9d07c448aa548bcc98f091
+    m_Address: Assets/_Project/AddressableAssets/Buildings/Eastern/Eastern farm 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71d3244a50af5cb4699a8ba8a504c657
+    m_Address: Assets/_Project/AddressableAssets/Buildings/Eastern/Eastern farm 2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3e3258201d71a740a38a6578ec6237f
+    m_Address: Assets/_Project/AddressableAssets/Buildings/Eastern/Eastern farm 3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 93be8f73b48d0b143869bd59e08d8d90, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8d65770c086e0b74798a7099ec12d79e, type: 2}
+    - {fileID: 11400000, guid: 3bbe000cebe3db647b40eb9da2fb3354, type: 2}

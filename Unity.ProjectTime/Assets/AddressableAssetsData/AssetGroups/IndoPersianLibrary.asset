@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: IndoPersianLibrary
+  m_EditorClassIdentifier: 
+  m_GroupName: IndoPersianLibrary
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 20a1c87d17a2e6d4e98e9660128bb541
+  m_SerializeEntries:
+  - m_GUID: 939f8da1e42f2d14bbaaaaccf9f2315a
+    m_Address: Assets/_Project/AddressableAssets/Buildings/IndoPersian/IndoPersian
+      Library 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 93be8f73b48d0b143869bd59e08d8d90, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2115a7b7bd4a0b349bd4d5690d9e1e74, type: 2}
+    - {fileID: 11400000, guid: 8faa41fd8ae290243bcf1e327e86c95d, type: 2}

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{E505AD3A-462B-40BD-9CEC-FD36FBEE765D}</ProjectGuid>
+        <OutputType>Library</OutputType>
+        <AppDesignerFolder>Properties</AppDesignerFolder>
+        <RootNamespace>ASP.NET.ProjectTime</RootNamespace>
+        <AssemblyName>ASP.NET.ProjectTime</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+        <FileAlignment>512</FileAlignment>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug\</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="System" />
+        <Reference Include="System.Core" />
+        <Reference Include="System.Data" />
+        <Reference Include="System.Xml" />
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="DataContext\Save.cs" />
+        <Compile Include="Helpers\NewIdGenerator.cs" />
+        <Compile Include="Helpers\StringExtensions.cs" />
+        <Compile Include="Models\BuildingCoreData.cs" />
+        <Compile Include="Models\BuildingSlot.cs" />
+        <Compile Include="Models\BuildingSize.cs" />
+        <Compile Include="Models\BuildingVariation.cs" />
+        <Compile Include="Models\BuildingVariationObject.cs" />
+        <Compile Include="Models\Culture.cs" />
+        <Compile Include="Models\ElevationDescriptiveData.cs" />
+        <Compile Include="Models\FeatureDescriptiveData.cs" />
+        <Compile Include="Models\GameTextFieldDescriptiveData.cs" />
+        <Compile Include="Models\GameTime.cs" />
+        <Compile Include="Models\MandatoryRiver.cs" />
+        <Compile Include="Models\NaturalResourceDescriptiveData.cs" />
+        <Compile Include="Models\MapTemperatureInChunkRow.cs" />
+        <Compile Include="Models\NamingSet.cs" />
+        <Compile Include="Models\CultureData.cs" />
+        <Compile Include="Models\OtherDescriptiveData.cs" />
+        <Compile Include="Models\PlayableCulture.cs" />
+        <Compile Include="Models\PlayableCultureDescriptiveData.cs" />
+        <Compile Include="Models\PngAndAddressableFileLocation.cs" />
+        <Compile Include="Models\Position2.cs" />
+        <Compile Include="Models\ResourceGroup.cs" />
+        <Compile Include="Models\ResourceLocations.cs" />
+        <Compile Include="Models\Subcontinent.cs" />
+        <Compile Include="Models\SubcontinentTiles.cs" />
+        <Compile Include="Models\TerrainDescriptiveData.cs" />
+        <Compile Include="Models\Units\ArmyUnit\Army.cs" />
+        <Compile Include="Models\Units\ArmyUnit\Regiment.cs" />
+        <Compile Include="Models\Units\Unit.cs" />
+        <Compile Include="Services\BattleService\BattleCalculation.cs" />
+        <Compile Include="Services\ClanService\ClanGenerator.cs" />
+        <Compile Include="Services\ClanService\ClanNameGenerator.cs" />
+        <Compile Include="Services\CultureService\CultureGenerator.cs" />
+        <Compile Include="Services\Directions.cs" />
+        <Compile Include="Services\ElevationType.cs" />
+        <Compile Include="Services\FeatureType.cs" />
+        <Compile Include="Services\IntMinToMaxValue.cs" />
+        <Compile Include="Services\Modifiers\CultureModifier.cs" />
+        <Compile Include="Services\Modifiers\EducationalTraditionModifier.cs" />
+        <Compile Include="Services\Modifiers\HappinessModifier.cs" />
+        <Compile Include="Services\Modifiers\PhysicalProwessModifier.cs" />
+        <Compile Include="Services\Modifiers\PopAppearanceModifier.cs" />
+        <Compile Include="Services\Modifiers\PopSizeModifier.cs" />
+        <Compile Include="Services\Modifiers\ReligionModifier.cs" />
+        <Compile Include="Services\Modifiers\SkillModifier.cs" />
+        <Compile Include="Services\Modifiers\SpiritualWisdomModifier.cs" />
+        <Compile Include="Services\Modifiers\TechnologyModifier.cs" />
+        <Compile Include="Services\Mod\AssemblyLoader.cs" />
+        <Compile Include="Services\PopServices\PopGenerator.cs" />
+        <Compile Include="Services\TerrainType.cs" />
+        <Compile Include="Services\TIleFinder.cs" />
+        <Compile Include="Services\TileHelper.cs" />
+        <Compile Include="Models\Base.cs" />
+        <Compile Include="Models\Building.cs" />
+        <Compile Include="Models\ChunkTile.cs" />
+        <Compile Include="Models\Clan.cs" />
+        <Compile Include="Models\MainMenuVariables.cs" />
+        <Compile Include="Models\NaturalResource.cs" />
+        <Compile Include="Models\NeighbourTilesPositions.cs" />
+        <Compile Include="Models\PathFinding\AStarPathfinding.cs" />
+        <Compile Include="Models\PathFinding\Node.cs" />
+        <Compile Include="Models\Pop.cs" />
+        <Compile Include="Models\PopAppearance.cs" />
+        <Compile Include="Models\Skill.cs" />
+        <Compile Include="Models\SkillType.cs" />
+        <Compile Include="Models\Technology.cs" />
+        <Compile Include="Models\TechnologyType.cs" />
+        <Compile Include="Models\Tile.cs" />
+        <Compile Include="1. Repositories\Repository.cs" />
+        <Compile Include="DataContext\DataContext.cs" />
+        <Compile Include="DataContext\SaveData.cs" />
+        <Compile Include="Models\TileCoordinates.cs" />
+        <Compile Include="Models\Vertex.cs" />
+        <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="Services\Tiles\TileNameGenerator.cs" />
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+    <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    -->
+    <ItemGroup>
+        <Stuff Include="$(OutputPath)\*.dll" Exclude="UnityEngine.dll" />
+    </ItemGroup>
+    <Target Name="AfterBuild">
+        <Copy SourceFiles="@(Stuff)" DestinationFolder="$(SolutionDir)..\Unity.ProjectTime\Assets\Plugins" ContinueOnError="true" />
+    </Target>
+
+</Project>

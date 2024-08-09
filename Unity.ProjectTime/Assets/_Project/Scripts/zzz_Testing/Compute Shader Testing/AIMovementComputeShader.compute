@@ -1,0 +1,25 @@
+﻿#pragma kernel UpdatePosition
+
+RWStructuredBuffer<float3> aiPositions;
+float moveSpeed;
+float moveRange;
+
+// Simple random function
+float rand(uint seed)
+{
+    seed = (seed * 16807u) % 2147483647u;
+    return seed / 2147483647.0f;
+}
+
+[numthreads(8,8,1)]
+void UpdatePosition(uint3 id : SV_DispatchThreadID)
+{
+    float3 currentPosition = aiPositions[id.x];
+    float3 randomDirection = float3(rand(id.x) * 2 - 1, 0, rand(id.x * id.x) * 2 - 1);
+    float3 newPosition = currentPosition + normalize(randomDirection) * moveSpeed;
+
+    // Keep the AI within the specified move range
+    newPosition = clamp(newPosition, float3(-moveRange, 0, -moveRange), float3(moveRange, 0, moveRange));
+
+    aiPositions[id.x] = newPosition;
+}

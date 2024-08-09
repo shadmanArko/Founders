@@ -1,0 +1,21 @@
+{
+  "gameTextFieldDescriptiveDatas":
+  [
+    {
+      "label": "physicalProwess",
+      "text": "German Physical Prowess: "
+    },
+    {
+      "label": "educationalTradition",
+      "text": "German Educational Tradition: "
+    },
+    {
+      "label": "spiritualKnowledge",
+      "text": "German Spiritual Knowledge: "
+    },
+    {
+      "label": "popSize",
+      "text": "German Pop Size: "
+    }
+  ]
+}

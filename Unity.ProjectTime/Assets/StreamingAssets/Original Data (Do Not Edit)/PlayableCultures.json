@@ -1,0 +1,21 @@
+{
+  "playableCultures": 
+  [
+    {
+      "label": "han",
+      "cultureNamingGroup": "EastAsia"
+    }, 
+    {
+      "label": "gothia",
+      "cultureNamingGroup": "Germanic"
+    },
+    {
+      "label": "alemannia",
+      "cultureNamingGroup": "Germanic"
+    },
+    {
+      "label": "assyria",
+      "cultureNamingGroup": "Afroasiatic"
+    }
+  ]
+}

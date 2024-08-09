@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WesternFarm
+  m_EditorClassIdentifier: 
+  m_GroupName: WesternFarm
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 14c7e0bc89002cd4e88fcc21bd1cce2a
+  m_SerializeEntries:
+  - m_GUID: a446a3eb1c8d9894cadf71353fcb5b8f
+    m_Address: Assets/_Project/AddressableAssets/Buildings/Western/western farm 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4df2dbb1582f82d4d81a32165ec6416c
+    m_Address: Assets/_Project/AddressableAssets/Buildings/Western/western farm 2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feacddffa584d7942ac87e0bd58ba09d
+    m_Address: Assets/_Project/AddressableAssets/Buildings/Western/western farm 3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 93be8f73b48d0b143869bd59e08d8d90, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: be9c0b1c2773e4f46a56229c828cb88c, type: 2}
+    - {fileID: 11400000, guid: 760f3ca902624ed42b6c391929bbcf2d, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WesternLibrary
+  m_EditorClassIdentifier: 
+  m_GroupName: WesternLibrary
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 137b0536d77906344a244f1f9f3ff2e8
+  m_SerializeEntries:
+  - m_GUID: a8ca27a060cfd7c4bbb1c205e489ec1e
+    m_Address: Assets/_Project/AddressableAssets/Buildings/Western/Western Library
+      1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 93be8f73b48d0b143869bd59e08d8d90, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6079d3a970df7b342b359fbb4b7a905e, type: 2}
+    - {fileID: 11400000, guid: 893cb5aba050e284bb090c349e4030ef, type: 2}

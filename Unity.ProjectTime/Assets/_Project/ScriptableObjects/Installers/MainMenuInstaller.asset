@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5c0449a682e93443bc9985fb4427aab, type: 3}
+  m_Name: MainMenuInstaller
+  m_EditorClassIdentifier: 
+  playableCultureContainerSo: {fileID: 11400000, guid: 62fd8db889a639e4d8f7ca846af6fffa,
+    type: 2}
+  playableCultureDescriptiveDataSo: {fileID: 11400000, guid: 5fbac25d2956d2748a4848fefcba6ebf,
+    type: 2}
+  settingsDataContainer: {fileID: 11400000, guid: ab3ace310c26353429577a3ce54461e2,
+    type: 2}
+  subcontinentsContainer: {fileID: 11400000, guid: 37e2966bb55c23b42bd7faee9b21cacf,
+    type: 2}
+  newGameSetupDescriptiveData: {fileID: 11400000, guid: 2412469b6703fee4dbc008366a8e6c62,
+    type: 2}
+  baseCanvasView: {fileID: 3271691808299618846, guid: 21c4e2f378a1938489ebea997f4a6cf9,
+    type: 3}
+  newGameStartupCanvasView: {fileID: 6305524811692765601, guid: 07aa63f7c2d99294bb3f4b6412b33c25,
+    type: 3}
+  subcontinentPrefab: {fileID: -2615948896174776745, guid: 48300963e30ad2347a5a54dc3915182c,
+    type: 3}
+  newGameSettingsData: {fileID: 11400000, guid: 4645ada08dd3e3d4ba56677035ef61ad,
+    type: 2}

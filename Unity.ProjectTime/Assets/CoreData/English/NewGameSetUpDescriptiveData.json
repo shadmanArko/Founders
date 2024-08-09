@@ -1,0 +1,25 @@
+{
+  "gameTextFieldDescriptiveDatas": 
+  [
+    {
+      "label": "setUpNewGame",
+      "text": "Set Up New Game"
+    },
+    {
+      "label": "selectRegion",
+      "text": "Select Region"
+    },
+    {
+      "label": "selectedRegion",
+      "text": "Selected Region"
+    },
+    {
+      "label": "nation",
+      "text": "Nation"
+    },
+    {
+    "label": "difficulty",
+    "text": "Difficulty"
+    }
+  ]
+}

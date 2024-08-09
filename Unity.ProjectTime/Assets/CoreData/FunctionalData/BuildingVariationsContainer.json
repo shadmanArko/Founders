@@ -1,0 +1,1698 @@
+﻿{
+  "buildingVariations": [
+    {
+      "BuildingName": "Farm",
+      "VariationLabel": "Eastern1",
+      "VariationClass": "Eastern",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation": 
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png"
+      },
+      "Row1PngFileLocation": 
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": "Assets/_Project/AddressableAssets/Buildings/Eastern/Eastern farm 1.png"
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Farm",
+      "VariationLabel": "Eastern2",
+      "VariationClass": "Eastern",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Eastern/Eastern farm 2.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Farm",
+      "VariationLabel": "Eastern3",
+      "VariationClass": "Eastern",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Eastern/Eastern farm 3.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfarm__7ae6989cbe54fff3aae45410cfe76c6d.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    
+
+    {
+      "BuildingName": "Farm",
+      "VariationLabel": "Western1",
+      "VariationClass": "Western",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation": {
+        "IsAddressable": true,
+        "BundleName": "westernfarm__9c5d3d4ad7be13e38b6dbee7549f0149.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png"
+      },
+      "Row1PngFileLocation": {
+        "IsAddressable": true,
+        "BundleName": "westernfarm__9c5d3d4ad7be13e38b6dbee7549f0149.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": "Assets/_Project/AddressableAssets/Buildings/Western/western farm 1.png"
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": null,
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Farm",
+      "VariationLabel": "Western2",
+      "VariationClass": "Western",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation": {
+        "IsAddressable": true,
+        "BundleName": "westernfarm__9c5d3d4ad7be13e38b6dbee7549f0149.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png"
+      },
+      "Row1PngFileLocation": {
+        "IsAddressable": true,
+        "BundleName": "westernfarm__9c5d3d4ad7be13e38b6dbee7549f0149.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": "Assets/_Project/AddressableAssets/Buildings/Western/western farm 2.png"
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Farm",
+      "VariationLabel": "Western3",
+      "VariationClass": "Western",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation": {
+        "IsAddressable": true,
+        "BundleName": "westernfarm__9c5d3d4ad7be13e38b6dbee7549f0149.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png"
+      },
+      "Row1PngFileLocation": {
+        "IsAddressable": true,
+        "BundleName": "westernfarm__9c5d3d4ad7be13e38b6dbee7549f0149.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": "Assets/_Project/AddressableAssets/Buildings/Western/western farm 3.png"
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+
+    
+    {
+      "BuildingName": "Farm",
+      "VariationLabel": "IndoPersian1",
+      "VariationClass": "IndoPersian",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/IndoPersian/indo persian farm 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Farm",
+      "VariationLabel": "IndoPersian2",
+      "VariationClass": "IndoPersian",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/IndoPersian/indo persian farm 2.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Farm",
+      "VariationLabel": "IndoPersian3",
+      "VariationClass": "IndoPersian",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/IndoPersian/indo persian farm 3.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfarm__c3f3ea29c26caf4ddb7e560a50c4f4f6.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    
+    
+    {
+      "BuildingName": "Field",
+      "VariationLabel": "Eastern1",
+      "VariationClass": "Eastern",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Eastern/eastern field 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Field",
+      "VariationLabel": "Eastern2",
+      "VariationClass": "Eastern",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Eastern/eastern field 2.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Field",
+      "VariationLabel": "Eastern3",
+      "VariationClass": "Eastern",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Eastern/eastern field 3.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternfield__c155d04a97f2630b706d9bb7f5d83f20.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    
+    {
+      "BuildingName": "Field",
+      "VariationLabel": "Western1",
+      "VariationClass": "Western",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Western/western field 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Field",
+      "VariationLabel": "Western2",
+      "VariationClass": "Western",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Western/western field 2.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Field",
+      "VariationLabel": "Western3",
+      "VariationClass": "Western",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Western/western field 3.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernfield__859b43d136030ab79f050b7d89e949b3.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+
+    {
+      "BuildingName": "Field",
+      "VariationLabel": "IndoPersian1",
+      "VariationClass": "IndoPersian",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Buildings/Field/Indo persian/indo persian field 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Field",
+      "VariationLabel": "IndoPersian2",
+      "VariationClass": "IndoPersian",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Buildings/Field/Indo persian/indo persian field 2.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Field",
+      "VariationLabel": "IndoPersian3",
+      "VariationClass": "IndoPersian",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Buildings/Field/Indo persian/Indo persian field 3.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianfield__ed336fdae567dc7c694608b83bfe0973.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+
+
+    {
+      "BuildingName": "GatheringHut",
+      "VariationLabel": "GatheringHut1",
+      "VariationClass": "Basic",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Basic/Gathering Huts 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "GatheringHut",
+      "VariationLabel": "GatheringHut2",
+      "VariationClass": "Basic",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Basic/Gathering Huts 2.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "GatheringHut",
+      "VariationLabel": "GatheringHut3",
+      "VariationClass": "Basic",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Basic/Gathering Huts 3.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "GatheringHut",
+      "VariationLabel": "GatheringHut4",
+      "VariationClass": "Basic",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Basic/Gathering Huts 4.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "gatheringhut__79936310fcdb0b6dcc6288395a5ecaa2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+
+
+    {
+      "BuildingName": "Granary",
+      "VariationLabel": "Granary1",
+      "VariationClass": "Eastern",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easterngranary__c3cc15e73037d09b3f7f40f1b113e5a1.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easterngranary__c3cc15e73037d09b3f7f40f1b113e5a1.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Eastern/eastern granary 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easterngranary__c3cc15e73037d09b3f7f40f1b113e5a1.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easterngranary__c3cc15e73037d09b3f7f40f1b113e5a1.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easterngranary__c3cc15e73037d09b3f7f40f1b113e5a1.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easterngranary__c3cc15e73037d09b3f7f40f1b113e5a1.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    
+    {
+      "BuildingName": "Granary",
+      "VariationLabel": "Granary1",
+      "VariationClass": "Western",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westerngranary__6f373a8cad0b2a3f23dc7be74a10c88b.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westerngranary__6f373a8cad0b2a3f23dc7be74a10c88b.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Western/western granary 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westerngranary__6f373a8cad0b2a3f23dc7be74a10c88b.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westerngranary__6f373a8cad0b2a3f23dc7be74a10c88b.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westerngranary__6f373a8cad0b2a3f23dc7be74a10c88b.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westerngranary__6f373a8cad0b2a3f23dc7be74a10c88b.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    
+    {
+      "BuildingName": "Granary",
+      "VariationLabel": "Granary1",
+      "VariationClass": "IndoPersian",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersiangranary__7aa4cf3235f7fc9ebec157bb28a400c8.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westerngranary__6f373a8cad0b2a3f23dc7be74a10c88b.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/IndoPersian/Indo persian granary 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersiangranary__7aa4cf3235f7fc9ebec157bb28a400c8.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersiangranary__7aa4cf3235f7fc9ebec157bb28a400c8.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersiangranary__7aa4cf3235f7fc9ebec157bb28a400c8.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersiangranary__7aa4cf3235f7fc9ebec157bb28a400c8.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+
+
+    {
+      "BuildingName": "Library",
+      "VariationLabel": "Library1",
+      "VariationClass": "Eastern",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternlibrary__85c6cd3b63ac2fb508adfec596ff1bfe.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternlibrary__85c6cd3b63ac2fb508adfec596ff1bfe.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Eastern/Eastern Library 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternlibrary__85c6cd3b63ac2fb508adfec596ff1bfe.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternlibrary__85c6cd3b63ac2fb508adfec596ff1bfe.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternlibrary__85c6cd3b63ac2fb508adfec596ff1bfe.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternlibrary__85c6cd3b63ac2fb508adfec596ff1bfe.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    
+    {
+      "BuildingName": "Library",
+      "VariationLabel": "Library1",
+      "VariationClass": "Western",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westernlibrary__02a23a3417ce4bd43f27ddd636b4ebe4.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westernlibrary__02a23a3417ce4bd43f27ddd636b4ebe4.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Western/Western Library 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernlibrary__02a23a3417ce4bd43f27ddd636b4ebe4.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernlibrary__02a23a3417ce4bd43f27ddd636b4ebe4.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernlibrary__02a23a3417ce4bd43f27ddd636b4ebe4.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernlibrary__02a23a3417ce4bd43f27ddd636b4ebe4.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    
+    {
+      "BuildingName": "Library",
+      "VariationLabel": "Library1",
+      "VariationClass": "IndoPersian",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianlibrary__43e209831b97bcbf210b682c8998d9de.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianlibrary__43e209831b97bcbf210b682c8998d9de.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/IndoPersian/IndoPersian Library 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianlibrary__43e209831b97bcbf210b682c8998d9de.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianlibrary__43e209831b97bcbf210b682c8998d9de.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianlibrary__43e209831b97bcbf210b682c8998d9de.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianlibrary__43e209831b97bcbf210b682c8998d9de.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+
+
+    {
+      "BuildingName": "Mine",
+      "VariationLabel": "Mine1",
+      "VariationClass": "Basic",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Basic/Mine 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Mine",
+      "VariationLabel": "Mine2",
+      "VariationClass": "Basic",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Basic/Mine 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "Mine",
+      "VariationLabel": "Mine3",
+      "VariationClass": "Basic",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Basic/Mine 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicmine__2b11881a9b787cf20c969595d8f5a000.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    
+    
+    {
+      "BuildingName": "VillageCenter",
+      "VariationLabel": "VillageCenter1",
+      "VariationClass": "Eastern",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": true,
+        "BundleName": null,
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Basic/Mine 1.png",
+        "PngFileLocation": "Assets/_Project/Arts/2D/Prototype/Buildings/village centre/Village Centre Building 1st Row.png"
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": true,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": "Assets/_Project/Arts/2D/Prototype/Buildings/village centre/Village Centre Building 2nd Row.png"
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": true,
+        "BundleName": null,
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": "Assets/_Project/Arts/2D/Prototype/Buildings/village centre/Village Centre Building 3rd Row.png"
+      }
+    },
+
+
+    {
+      "BuildingName": "Winery",
+      "VariationLabel": "Winery1",
+      "VariationClass": "Eastern",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternwinery__a08043df562278985c53cf103557efad.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "easternwinery__a08043df562278985c53cf103557efad.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Eastern/Eastern Winery 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternwinery__a08043df562278985c53cf103557efad.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternwinery__a08043df562278985c53cf103557efad.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternwinery__a08043df562278985c53cf103557efad.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "easternwinery__a08043df562278985c53cf103557efad.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+
+    {
+      "BuildingName": "Winery",
+      "VariationLabel": "Winery1",
+      "VariationClass": "Western",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westernwinery__963bda5d4e605fdd6da655d91d8d53e2.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "westernwinery__963bda5d4e605fdd6da655d91d8d53e2.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Western/Western Winery 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernwinery__963bda5d4e605fdd6da655d91d8d53e2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernwinery__963bda5d4e605fdd6da655d91d8d53e2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernwinery__963bda5d4e605fdd6da655d91d8d53e2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "westernwinery__963bda5d4e605fdd6da655d91d8d53e2.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+
+    {
+      "BuildingName": "Winery",
+      "VariationLabel": "Winery1",
+      "VariationClass": "IndoPersian",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianwinery__3aa2c0ca18b1db70cbc1c093ceb98e83.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "indopersianwinery__3aa2c0ca18b1db70cbc1c093ceb98e83.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/IndoPersian/IndoPersian Winery 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianwinery__3aa2c0ca18b1db70cbc1c093ceb98e83.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianwinery__3aa2c0ca18b1db70cbc1c093ceb98e83.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianwinery__3aa2c0ca18b1db70cbc1c093ceb98e83.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "indopersianwinery__3aa2c0ca18b1db70cbc1c093ceb98e83.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+
+
+    {
+      "BuildingName": "WoodCutter",
+      "VariationLabel": "WoodCutter1",
+      "VariationClass": "Basic",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Basic/WoodCutter 1.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "WoodCutter",
+      "VariationLabel": "WoodCutter2",
+      "VariationClass": "Basic",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Basic/WoodCutter 2.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    },
+    {
+      "BuildingName": "WoodCutter",
+      "VariationLabel": "WoodCutter3",
+      "VariationClass": "Basic",
+      "BuildingCategory": "Extractive",
+      "BuildingSurfacePngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "Assets/_Project/Arts/2D/Prototype/Surface/surface.png",
+        "PngFileLocation": null
+      },
+      "Row1PngFileLocation":
+      {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "Assets/_Project/AddressableAssets/Buildings/Basic/WoodCutter 3.png",
+        "PngFileLocation": null
+      },
+      "Row2PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row3PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row4PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      },
+      "Row5PngFileLocation": {
+        "IsAddressable": false,
+        "BundleName": "basicwoodcutter__89395b34811242de63e4ee07e0480240.bundle",
+        "BundleLocation": "D:/Unity Projects/ProjectTime/Unity.ProjectTime/Assets/_Project/AddressableAssets/AssetBundles",
+        "PngFileLocation": null
+      }
+    }
+  ]
+}

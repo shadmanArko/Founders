@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9d0a8f395c48c344b8f85999dc6b210, type: 3}
+  m_Name: StartingConditionsFunctionalDataSo
+  m_EditorClassIdentifier: 
+  totalStaringClans: 3
+  startingPops: 4
+  minimumTotalStatsPerPop: 24
+  maximumTotalStatsPerPop: 26
+  minimumStatInBest: 9
+  minimumStartingHappiness: 4
+  maximumStartingHappiness: 9

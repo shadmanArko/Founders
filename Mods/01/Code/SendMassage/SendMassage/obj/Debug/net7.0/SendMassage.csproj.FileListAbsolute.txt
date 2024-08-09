@@ -1,0 +1,12 @@
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\bin\Debug\net7.0\SendMassage.deps.json
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\bin\Debug\net7.0\SendMassage.dll
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\bin\Debug\net7.0\SendMassage.pdb
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\obj\Debug\net7.0\SendMassage.csproj.AssemblyReference.cache
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\obj\Debug\net7.0\SendMassage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\obj\Debug\net7.0\SendMassage.AssemblyInfoInputs.cache
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\obj\Debug\net7.0\SendMassage.AssemblyInfo.cs
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\obj\Debug\net7.0\SendMassage.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\obj\Debug\net7.0\SendMassage.dll
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\obj\Debug\net7.0\refint\SendMassage.dll
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\obj\Debug\net7.0\SendMassage.pdb
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\SendMassage\SendMassage\obj\Debug\net7.0\ref\SendMassage.dll

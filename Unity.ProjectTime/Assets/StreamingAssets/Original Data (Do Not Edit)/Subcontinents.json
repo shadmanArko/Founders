@@ -1,0 +1,1012 @@
+{
+  "subcontinents": [
+    {
+      "Id": "",
+      "subcontinentName": "Indian Subcontinent",
+      "subcontinentPosition": {"x": 100, "y": -25},
+      "landChunkList": [
+        {"x": 7, "y": 1},
+        {"x": 6, "y": 2},
+        {"x": 7, "y": 2},
+        {"x": 5, "y": 3},
+        {"x": 6, "y": 3},
+        {"x": 7, "y": 3},
+        {"x": 8, "y": 3},
+        {"x": 4, "y": 4},
+        {"x": 5, "y": 4},
+        {"x": 6, "y": 4},
+        {"x": 7, "y": 4},
+        {"x": 8, "y": 4},
+        {"x": 9, "y": 4},
+        {"x": 10, "y": 4},
+        {"x": 3, "y": 5},
+        {"x": 4, "y": 5},
+        {"x": 5, "y": 5},
+        {"x": 6, "y": 5},
+        {"x": 7, "y": 5},
+        {"x": 8, "y": 5},
+        {"x": 9, "y": 5},
+        {"x": 10, "y": 5},
+        {"x": 11, "y": 5},
+        {"x": 15, "y": 5},
+        {"x": 2, "y": 6},
+        {"x": 3, "y": 6},
+        {"x": 4, "y": 6},
+        {"x": 5, "y": 6},
+        {"x": 6, "y": 6},
+        {"x": 7, "y": 6},
+        {"x": 8, "y": 6},
+        {"x": 9, "y": 6},
+        {"x": 10, "y": 6},
+        {"x": 11, "y": 6},
+        {"x": 14, "y": 6},
+        {"x": 15, "y": 6},
+        {"x": 2, "y": 7},
+        {"x": 3, "y": 7},
+        {"x": 4, "y": 7},
+        {"x": 5, "y": 7},
+        {"x": 6, "y": 7},
+        {"x": 7, "y": 7},
+        {"x": 8, "y": 7},
+        {"x": 9, "y": 7},
+        {"x": 10, "y": 7},
+        {"x": 11, "y": 7},
+        {"x": 12, "y": 7},
+        {"x": 13, "y": 7},
+        {"x": 14, "y": 7},
+        {"x": 15, "y": 7},
+        {"x": 1, "y": 8},
+        {"x": 2, "y": 8},
+        {"x": 3, "y": 8},
+        {"x": 4, "y": 8},
+        {"x": 5, "y": 8},
+        {"x": 6, "y": 8},
+        {"x": 7, "y": 8},
+        {"x": 8, "y": 8},
+        {"x": 9, "y": 8},
+        {"x": 10, "y": 8},
+        {"x": 11, "y": 8},
+        {"x": 12, "y": 8},
+        {"x": 13, "y": 8},
+        {"x": 14, "y": 8},
+        {"x": 15, "y": 8},
+        {"x": 0, "y": 9},
+        {"x": 1, "y": 9},
+        {"x": 2, "y": 9},
+        {"x": 3, "y": 9},
+        {"x": 4, "y": 9},
+        {"x": 5, "y": 9},
+        {"x": 6, "y": 9},
+        {"x": 7, "y": 9},
+        {"x": 8, "y": 9},
+        {"x": 9, "y": 9},
+        {"x": 10, "y": 9},
+        {"x": 11, "y": 9},
+        {"x": 12, "y": 9},
+        {"x": 13, "y": 9},
+        {"x": 14, "y": 9},
+        {"x": 15, "y": 9}
+      ],
+      "mountainChunkList": [
+        {"x": 2, "y": 9},
+        {"x": 3, "y": 9},
+        {"x": 4, "y": 9},
+        {"x": 5, "y": 9},
+        {"x": 6, "y": 9},
+        {"x": 7, "y": 9},
+        {"x": 8, "y": 9},
+        {"x": 9, "y": 9},
+        {"x": 10, "y": 9},
+        {"x": 11, "y": 9},
+        {"x": 12, "y": 9},
+        {"x": 14, "y": 9},
+        {"x": 15, "y": 9},
+        {"x": 15, "y": 7},
+        {"x": 15, "y": 6},
+        {"x": 15, "y": 5}
+      ],
+      "dryChunkList": [
+        {"x": 2, "y": 8},
+        {"x": 6, "y": 4}
+      ],
+      "mapTemperatureInChunkRows": [
+        {
+          "temperatureStrength": 5,
+          "chunkRowIndex": 0
+        },
+        {
+          "temperatureStrength": 5,
+          "chunkRowIndex": 1
+        },
+        {
+          "temperatureStrength": 5,
+          "chunkRowIndex": 2
+        },
+        {
+          "temperatureStrength": 4,
+          "chunkRowIndex": 3
+        },
+        {
+          "temperatureStrength": 4,
+          "chunkRowIndex": 4
+        },
+        {
+          "temperatureStrength": 4,
+          "chunkRowIndex": 5
+        },
+        {
+          "temperatureStrength": 4,
+          "chunkRowIndex": 6
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 7
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 8
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 9
+        }
+      ],
+      "numberOfPeninsula": {
+        "minValue": 4,
+        "maxValue": 4
+      },
+      "heightOfPeninsula": {
+        "minValue": 2,
+        "maxValue": 3
+      },
+      "numberOfSmallIslands": {
+        "minValue": 1,
+        "maxValue": 2
+      },
+      "minDistanceOfSmallIslandsFromLand": {
+        "minValue": 2,
+        "maxValue": 4
+      },
+      "numberOfSmallIslandLandTiles": {
+        "minValue": 2,
+        "maxValue": 5
+      },
+      "numberOfSecondaryMountainRange": {
+        "minValue": 2,
+        "maxValue": 2
+      },
+      "lengthOfSecondaryMountainRange": {
+        "minValue": 2,
+        "maxValue": 3
+      },
+      "hillCreationProbabilityAtMountainTile": 10,
+      "hillCreationProbabilityBesideMountainTile": 20,
+      "numberOfLakes": {
+        "minValue": 3,
+        "maxValue": 3
+      },
+      "numberOfSwamps": {
+        "minValue": 4,
+        "maxValue": 5
+      },
+      "riverOriginDistanceFromCoast": {
+        "minValue": 3,
+        "maxValue": 3
+      },
+      "numberOfRivers": {
+        "minValue": 3,
+        "maxValue": 5
+      },
+      "numberOfRiverBranches": {
+        "minValue": 2,
+        "maxValue": 4
+      },
+      "riverBranchOriginDistanceFromCoast": {
+        "minValue": 1,
+        "maxValue": 1
+      },
+      "mandatoryRivers": [
+        {
+          "riverOriginChunks": [
+            {"x": 5, "y": 9},
+            {"x": 4, "y": 9}
+          ],
+          "riverMouthChunks": [
+            {"x": 1, "y": 7},
+            {"x": 2, "y": 7},
+            {"x": 1, "y": 6},
+            {"x": 2, "y": 6}
+          ]
+        },
+        {
+          "riverOriginChunks": [
+            {"x": 14, "y": 9},
+            {"x": 13, "y": 9}
+          ],
+          "riverMouthChunks": [
+            {"x": 12, "y": 7},
+            {"x": 13, "y": 7},
+            {"x": 12, "y": 6},
+            {"x": 13, "y": 6}
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "",
+      "subcontinentName": "Middle East Subcontinent",
+      "subcontinentPosition": {"x": 50, "y": 0},
+      "landChunkList": [
+        {"x": 4, "y": 9},
+        {"x": 5, "y": 9},
+        {"x": 6, "y": 9},
+        {"x": 7, "y": 9},
+        {"x": 8, "y": 9},
+        {"x": 12, "y": 9},
+        {"x": 13, "y": 9},
+        {"x": 14, "y": 9},
+        {"x": 15, "y": 9},
+        {"x": 0, "y": 8},
+        {"x": 1, "y": 8},
+        {"x": 2, "y": 8},
+        {"x": 3, "y": 8},
+        {"x": 4, "y": 8},
+        {"x": 5, "y": 8},
+        {"x": 6, "y": 8},
+        {"x": 7, "y": 8},
+        {"x": 8, "y": 8},
+        {"x": 9, "y": 8},
+        {"x": 13, "y": 8},
+        {"x": 14, "y": 8},
+        {"x": 15, "y": 8},
+        {"x": 0, "y": 7},
+        {"x": 1, "y": 7},
+        {"x": 2, "y": 7},
+        {"x": 3, "y": 7},
+        {"x": 4, "y": 7},
+        {"x": 5, "y": 7},
+        {"x": 6, "y": 7},
+        {"x": 7, "y": 7},
+        {"x": 8, "y": 7},
+        {"x": 9, "y": 7},
+        {"x": 10, "y": 7},
+        {"x": 11, "y": 7},
+        {"x": 12, "y": 7},
+        {"x": 13, "y": 7},
+        {"x": 14, "y": 7},
+        {"x": 15, "y": 7},
+        {"x": 0, "y": 6},
+        {"x": 1, "y": 6},
+        {"x": 2, "y": 6},
+        {"x": 3, "y": 6},
+        {"x": 4, "y": 6},
+        {"x": 5, "y": 6},
+        {"x": 6, "y": 6},
+        {"x": 7, "y": 6},
+        {"x": 8, "y": 6},
+        {"x": 9, "y": 6},
+        {"x": 10, "y": 6},
+        {"x": 11, "y": 6},
+        {"x": 12, "y": 6},
+        {"x": 13, "y": 6},
+        {"x": 14, "y": 6},
+        {"x": 15, "y": 6},
+        {"x": 3, "y": 5},
+        {"x": 4, "y": 5},
+        {"x": 5, "y": 5},
+        {"x": 6, "y": 5},
+        {"x": 7, "y": 5},
+        {"x": 8, "y": 5},
+        {"x": 9, "y": 5},
+        {"x": 10, "y":5},
+        {"x": 11, "y":5},
+        {"x": 12, "y": 5},
+        {"x": 13, "y": 5},
+        {"x": 14, "y": 5},
+        {"x": 15, "y": 5},
+        {"x": 3, "y": 4},
+        {"x": 4, "y": 4},
+        {"x": 5, "y": 4},
+        {"x": 6, "y": 4},
+        {"x": 7, "y": 4},
+        {"x": 10, "y": 4},
+        {"x": 11, "y": 4},
+        {"x": 12, "y": 4},
+        {"x": 13, "y": 4},
+        {"x": 14, "y": 4},
+        {"x": 15, "y": 4},
+        {"x": 3, "y": 3},
+        {"x": 4, "y": 3},
+        {"x": 5, "y": 3},
+        {"x": 6, "y": 3},
+        {"x": 7, "y": 3},
+        {"x": 8, "y": 3},
+        {"x": 12, "y": 3},
+        {"x": 13, "y": 3},
+        {"x": 14, "y": 3},
+        {"x": 15, "y": 3},
+        {"x": 0, "y": 2},
+        {"x": 1, "y": 2},
+        {"x": 2, "y": 2},
+        {"x": 3, "y": 2},
+        {"x": 6, "y": 2},
+        {"x": 7, "y": 2},
+        {"x": 8, "y": 2},
+        {"x": 9, "y": 2},
+        {"x": 10, "y": 2},
+        {"x": 13, "y": 2},
+        {"x": 14, "y": 2},
+        {"x": 15, "y": 2},
+        {"x": 0, "y": 1},
+        {"x": 1, "y": 1},
+        {"x": 2, "y": 1},
+        {"x": 3, "y": 1},
+        {"x": 4, "y": 1},
+        {"x": 7, "y": 1},
+        {"x": 8, "y": 1},
+        {"x": 9, "y": 1},
+        {"x": 10, "y": 1},
+        {"x": 11, "y": 1},
+        {"x": 14, "y": 1},
+        {"x": 15, "y": 1},
+        {"x": 0, "y": 0},
+        {"x": 1, "y": 0},
+        {"x": 2, "y": 0},
+        {"x": 3, "y": 0},
+        {"x": 4, "y": 0},
+        {"x": 5, "y": 0},
+        {"x": 8, "y": 0},
+        {"x": 9, "y": 0},
+        {"x": 10, "y": 0},
+        {"x": 11, "y": 0},
+        {"x": 12, "y": 0}
+      ],
+      "mountainChunkList": [
+
+        {"x": 4, "y": 9},
+        {"x": 5, "y": 9},
+        {"x": 6, "y": 9},
+        {"x": 7, "y": 9},
+        {"x": 8, "y": 9},
+        {"x": 2, "y": 8},
+        {"x": 3, "y": 8},
+        {"x": 4, "y": 8},
+        {"x": 8, "y": 8},
+        {"x": 9, "y": 7},
+        {"x": 11, "y": 7},
+        {"x": 13, "y": 7},
+        {"x": 2, "y": 6},
+        {"x": 9, "y": 6},
+        {"x": 14, "y": 6},
+        {"x": 10, "y": 5},
+        {"x": 15, "y": 5},
+        {"x": 10, "y": 4},
+        {"x": 11, "y": 4},
+        {"x": 15, "y": 4},
+        {"x": 12, "y": 3},
+        {"x": 15, "y": 3},
+        {"x": 13, "y": 2},
+        {"x": 7, "y": 1},
+        {"x": 14, "y": 1},
+        {"x": 8, "y": 0},
+        {"x": 12, "y": 0}
+      ],
+      "dryChunkList": [
+        {"x": 13, "y": 9},
+        {"x": 15, "y": 9},
+        {"x": 13, "y": 8},
+        {"x": 3, "y": 7},
+        {"x": 5, "y": 7},
+        {"x": 15, "y": 7},
+        {"x": 4, "y": 3},
+        {"x": 6, "y": 3},
+        {"x": 2, "y": 2},
+        {"x": 14, "y": 2},
+        {"x": 1, "y": 1},
+        {"x": 8, "y": 1},
+        {"x": 15, "y": 1},
+        {"x": 0, "y": 0},
+        {"x": 2, "y": 0},
+        {"x": 4, "y": 0},
+        {"x": 10, "y": 0}
+      ],
+      "mapTemperatureInChunkRows": [
+        {
+          "temperatureStrength": 5,
+          "chunkRowIndex": 0
+        },
+        {
+          "temperatureStrength": 5,
+          "chunkRowIndex": 1
+        },
+        {
+          "temperatureStrength": 5,
+          "chunkRowIndex": 2
+        },
+        {
+          "temperatureStrength": 4,
+          "chunkRowIndex": 3
+        },
+        {
+          "temperatureStrength": 4,
+          "chunkRowIndex": 4
+        },
+        {
+          "temperatureStrength": 4,
+          "chunkRowIndex": 5
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 6
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 7
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 8
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 9
+        }
+      ],
+      "numberOfPeninsula": {
+        "minValue": 1,
+        "maxValue": 2
+      },
+      "heightOfPeninsula": {
+        "minValue": 2,
+        "maxValue": 2
+      },
+      "numberOfSmallIslands": {
+        "minValue": 1,
+        "maxValue": 2
+      },
+      "minDistanceOfSmallIslandsFromLand": {
+        "minValue": 1,
+        "maxValue": 2
+      },
+      "numberOfSmallIslandLandTiles": {
+        "minValue": 2,
+        "maxValue": 3
+      },
+      "numberOfSecondaryMountainRange": {
+        "minValue": 1,
+        "maxValue": 1
+      },
+      "lengthOfSecondaryMountainRange": {
+        "minValue": 2,
+        "maxValue": 3
+      },
+      "hillCreationProbabilityAtMountainTile": 20,
+      "hillCreationProbabilityBesideMountainTile": 20,
+      "numberOfLakes": {
+        "minValue": 3,
+        "maxValue": 3
+      },
+      "numberOfSwamps": {
+        "minValue": 2,
+        "maxValue": 3
+      },
+      "riverOriginDistanceFromCoast": {
+        "minValue": 2,
+        "maxValue": 2
+      },
+      "numberOfRivers": {
+        "minValue": 5,
+        "maxValue": 6
+      },
+      "numberOfRiverBranches": {
+        "minValue": 2,
+        "maxValue": 3
+      },
+      "riverBranchOriginDistanceFromCoast": {
+        "minValue": 1,
+        "maxValue": 1
+      },
+      "mandatoryRivers": [
+        {
+          "riverOriginChunks": [
+            {"x": 3, "y": 0},
+            {"x": 2, "y": 0}
+          ],
+          "riverMouthChunks": [
+            {"x": 2, "y": 2},
+            {"x": 2, "y": 3},
+            {"x": 1, "y": 3},
+            {"x": 2, "y": 4}
+          ]
+        },
+        {
+          "riverOriginChunks": [
+            {"x": 6, "y": 9},
+            {"x": 5, "y": 9}
+          ],
+          "riverMouthChunks": [
+            {"x": 8, "y": 5},
+            {"x": 9, "y": 5},
+            {"x": 8, "y": 4},
+            {"x": 9, "y": 4}
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "",
+      "subcontinentName": "Mediterranean Subcontinent",
+      "subcontinentPosition": {"x": 0, "y": 0},
+      "landChunkList": [
+        {"x": 1, "y": 9},
+        {"x": 2, "y": 9},
+        {"x": 3, "y": 9},
+        {"x": 4, "y": 9},
+        {"x": 5, "y": 9},
+        {"x": 6, "y": 9},
+        {"x": 7, "y": 9},
+        {"x": 8, "y": 9},
+        {"x": 9, "y": 9},
+        {"x": 10, "y": 9},
+        {"x": 11, "y": 9},
+        {"x": 12, "y": 9},
+        {"x": 13, "y": 9},
+        {"x": 14, "y": 9},
+        {"x": 2, "y": 8},
+        {"x": 3, "y": 8},
+        {"x": 4, "y": 8},
+        {"x": 5, "y": 8},
+        {"x": 6, "y": 8},
+        {"x": 7, "y": 8},
+        {"x": 8, "y": 8},
+        {"x": 9, "y": 8},
+        {"x": 10, "y": 8},
+        {"x": 11, "y": 8},
+        {"x": 12, "y": 8},
+        {"x": 13, "y": 8},
+        {"x": 14, "y": 8},
+        {"x": 3, "y": 7},
+        {"x": 7, "y": 7},
+        {"x": 8, "y": 7},
+        {"x": 9, "y": 7},
+        {"x": 11, "y": 7},
+        {"x": 12, "y": 7},
+        {"x": 13, "y": 7},
+        {"x": 15, "y": 7},
+        {"x": 1, "y": 6},
+        {"x": 2, "y": 6},
+        {"x": 3, "y": 6},
+        {"x": 8, "y": 6},
+        {"x": 9, "y": 6},
+        {"x": 12, "y": 6},
+        {"x": 13, "y": 6},
+        {"x": 15, "y": 6},
+        {"x": 1, "y": 5},
+        {"x": 2, "y": 5},
+        {"x": 3, "y": 5},
+        {"x": 9, "y": 5},
+        {"x": 13, "y": 5},
+        {"x": 15, "y": 5},
+        {"x": 1, "y": 4},
+        {"x": 2, "y": 4},
+        {"x": 3, "y": 4},
+        {"x": 9, "y": 4},
+        {"x": 10, "y": 4},
+        {"x": 1, "y": 2},
+        {"x": 5, "y": 2},
+        {"x": 6, "y": 2},
+        {"x": 7, "y": 2},
+        {"x": 12, "y": 2},
+        {"x": 13, "y": 2},
+        {"x": 1, "y": 1},
+        {"x": 2, "y": 1},
+        {"x": 3, "y": 1},
+        {"x": 4, "y": 1},
+        {"x": 5, "y": 1},
+        {"x": 6, "y": 1},
+        {"x": 7, "y": 1},
+        {"x": 8, "y": 1},
+        {"x": 9, "y": 1},
+        {"x": 10, "y": 1},
+        {"x": 11, "y": 1},
+        {"x": 12, "y": 1},
+        {"x": 13, "y": 1},
+        {"x": 14, "y": 1},
+        {"x": 15, "y": 1},
+        {"x": 1, "y": 0},
+        {"x": 2, "y": 0},
+        {"x": 3, "y": 0},
+        {"x": 4, "y": 0},
+        {"x": 5, "y": 0},
+        {"x": 6, "y": 0},
+        {"x": 7, "y": 0},
+        {"x": 8, "y": 0},
+        {"x": 9, "y": 0},
+        {"x": 10, "y": 0},
+        {"x": 11, "y": 0},
+        {"x": 12, "y": 0},
+        {"x": 13, "y": 0},
+        {"x": 14, "y": 0},
+        {"x": 15, "y": 0}
+      ],
+      "mountainChunkList": [
+
+        {"x": 7, "y": 9},
+        {"x": 8, "y": 9},
+        {"x": 9, "y": 9},
+        {"x": 6, "y": 8},
+        {"x": 11, "y": 8},
+        {"x": 3, "y": 7},
+        {"x": 8, "y": 7},
+        {"x": 12, "y": 7},
+        {"x": 9, "y": 6},
+        {"x": 2, "y": 5},
+        {"x": 1, "y": 2},
+        {"x": 6, "y": 2},
+        {"x": 7, "y": 2}
+      ],
+      "dryChunkList": [
+
+        {"x": 2, "y": 4},
+        {"x": 5, "y": 1},
+        {"x": 9, "y": 1},
+        {"x": 11, "y": 1},
+        {"x": 14, "y": 1},
+        {"x": 1, "y": 0},
+        {"x": 2, "y": 0},
+        {"x": 5, "y": 0},
+        {"x": 7, "y": 0},
+        {"x": 9, "y": 0}
+      ],
+      "mapTemperatureInChunkRows": [
+        {
+          "temperatureStrength": 5,
+          "chunkRowIndex": 0
+        },
+        {
+          "temperatureStrength": 5,
+          "chunkRowIndex": 1
+        },
+        {
+          "temperatureStrength": 4,
+          "chunkRowIndex": 2
+        },
+        {
+          "temperatureStrength": 4,
+          "chunkRowIndex": 3
+        },
+        {
+          "temperatureStrength": 4,
+          "chunkRowIndex": 4
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 5
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 6
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 7
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 8
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 9
+        }
+      ],
+      "numberOfPeninsula": {
+        "minValue": 3,
+        "maxValue": 5
+      },
+      "heightOfPeninsula": {
+        "minValue": 2,
+        "maxValue": 4
+      },
+      "numberOfSmallIslands": {
+        "minValue": 3,
+        "maxValue": 4
+      },
+      "minDistanceOfSmallIslandsFromLand": {
+        "minValue": 1,
+        "maxValue": 1
+      },
+      "numberOfSmallIslandLandTiles": {
+        "minValue": 2,
+        "maxValue": 2
+      },
+      "numberOfSecondaryMountainRange": {
+        "minValue": 1,
+        "maxValue": 2
+      },
+      "lengthOfSecondaryMountainRange": {
+        "minValue": 2,
+        "maxValue": 4
+      },
+      "hillCreationProbabilityAtMountainTile": 25,
+      "hillCreationProbabilityBesideMountainTile": 10,
+      "numberOfLakes": {
+        "minValue": 2,
+        "maxValue": 4
+      },
+      "numberOfSwamps": {
+        "minValue": 2,
+        "maxValue": 2
+      },
+      "riverOriginDistanceFromCoast": {
+        "minValue": 2,
+        "maxValue": 3
+      },
+      "numberOfRivers": {
+        "minValue": 3,
+        "maxValue": 4
+      },
+      "numberOfRiverBranches": {
+        "minValue": 1,
+        "maxValue": 3
+      },
+      "riverBranchOriginDistanceFromCoast": {
+        "minValue": 1,
+        "maxValue": 1
+      },
+      "mandatoryRivers": [
+        {
+          "riverOriginChunks": [
+            {"x": 6, "y": 0},
+            {"x": 5, "y": 0}
+          ],
+          "riverMouthChunks": [
+            {"x": 3, "y": 1},
+            {"x": 4, "y": 1},
+            {"x": 3, "y": 2},
+            {"x": 4, "y": 2}
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "",
+      "subcontinentName": "Northern Europe",
+      "subcontinentPosition": {"x": 50, "y": 50},
+      "landChunkList": [
+        {"x": 10, "y": 9},
+        {"x": 11, "y": 9},
+        {"x": 12, "y": 9},
+        {"x": 13, "y": 9},
+        {"x": 14, "y": 9},
+        {"x": 15, "y": 9},
+        {"x": 3, "y": 8},
+        {"x": 4, "y": 8},
+        {"x": 9, "y": 8},
+        {"x": 10, "y": 8},
+        {"x": 11, "y": 8},
+        {"x": 12, "y": 8},
+        {"x": 15, "y": 8},
+        {"x": 1, "y": 7},
+        {"x": 4, "y": 7},
+        {"x": 9, "y": 7},
+        {"x": 10, "y": 7},
+        {"x": 11, "y": 7},
+        {"x": 15, "y": 7},
+        {"x": 0, "y": 6},
+        {"x": 1, "y": 6},
+        {"x": 3, "y": 6},
+        {"x": 4, "y": 6},
+        {"x": 9, "y": 6},
+        {"x": 10, "y": 6},
+        {"x": 11, "y": 6},
+        {"x": 14, "y": 6},
+        {"x": 15, "y": 6},
+        {"x": 3, "y": 5},
+        {"x": 4, "y": 5},
+        {"x": 7, "y": 5},
+        {"x": 9, "y": 5},
+        {"x": 14, "y": 5},
+        {"x": 15, "y": 5},
+        {"x": 6, "y": 4},
+        {"x": 7, "y": 4},
+        {"x": 12, "y": 4},
+        {"x": 13, "y": 4},
+        {"x": 14, "y": 4},
+        {"x": 15, "y": 4},
+        {"x": 1, "y": 3},
+        {"x": 2, "y": 3},
+        {"x": 3, "y": 3},
+        {"x": 4, "y": 3},
+        {"x": 5, "y": 3},
+        {"x": 6, "y": 3},
+        {"x": 7, "y": 3},
+        {"x": 8, "y": 3},
+        {"x": 9, "y": 3},
+        {"x": 10, "y": 3},
+        {"x": 11, "y": 3},
+        {"x": 12, "y": 3},
+        {"x": 13, "y": 3},
+        {"x": 14, "y": 3},
+        {"x": 15, "y": 3},
+        {"x": 2, "y": 2},
+        {"x": 3, "y": 2},
+        {"x": 4, "y": 2},
+        {"x": 5, "y": 2},
+        {"x": 6, "y": 2},
+        {"x": 7, "y": 2},
+        {"x": 8, "y": 2},
+        {"x": 9, "y": 2},
+        {"x": 10, "y": 2},
+        {"x": 11, "y": 2},
+        {"x": 12, "y": 2},
+        {"x": 13, "y": 2},
+        {"x": 14, "y": 2},
+        {"x": 15, "y": 2},
+        {"x": 2, "y": 1},
+        {"x": 3, "y": 1},
+        {"x": 4, "y": 1},
+        {"x": 5, "y": 1},
+        {"x": 6, "y": 1},
+        {"x": 7, "y": 1},
+        {"x": 8, "y": 1},
+        {"x": 9, "y": 1},
+        {"x": 10, "y": 1},
+        {"x": 11, "y": 1},
+        {"x": 12, "y": 1},
+        {"x": 13, "y": 1},
+        {"x": 14, "y": 1},
+        {"x": 15, "y": 1},
+        {"x": 3, "y": 0},
+        {"x": 4, "y": 0},
+        {"x": 5, "y": 0},
+        {"x": 6, "y": 0},
+        {"x": 7, "y": 0},
+        {"x": 8, "y": 0},
+        {"x": 9, "y": 0},
+        {"x": 10, "y": 0},
+        {"x": 11, "y": 0},
+        {"x": 12, "y": 0},
+        {"x": 13, "y": 0},
+        {"x": 14, "y": 0}
+      ],
+      "mountainChunkList": [
+
+        {"x": 10, "y": 9},
+        {"x": 3, "y": 8},
+        {"x": 4, "y": 8},
+        {"x": 9, "y": 8},
+        {"x": 9, "y": 7},
+        {"x": 10, "y": 7},
+        {"x": 9, "y": 6},
+        {"x": 11, "y": 1},
+        {"x": 12, "y": 1},
+        {"x": 12, "y": 0}
+      ],
+      "dryChunkList": [
+
+      ],
+      "mapTemperatureInChunkRows": [
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 0
+        },
+        {
+          "temperatureStrength": 3,
+          "chunkRowIndex": 1
+        },
+        {
+          "temperatureStrength": 2,
+          "chunkRowIndex": 2
+        },
+        {
+          "temperatureStrength": 2,
+          "chunkRowIndex": 3
+        },
+        {
+          "temperatureStrength": 2,
+          "chunkRowIndex": 4
+        },
+        {
+          "temperatureStrength": 2,
+          "chunkRowIndex": 5
+        },
+        {
+          "temperatureStrength": 2,
+          "chunkRowIndex": 6
+        },
+        {
+          "temperatureStrength": 1,
+          "chunkRowIndex": 7
+        },
+        {
+          "temperatureStrength": 1,
+          "chunkRowIndex": 8
+        },
+        {
+          "temperatureStrength": 0,
+          "chunkRowIndex": 9
+        }
+      ],
+      "numberOfPeninsula": {
+        "minValue": 3,
+        "maxValue": 5
+      },
+      "heightOfPeninsula": {
+        "minValue": 2,
+        "maxValue": 4
+      },
+      "numberOfSmallIslands": {
+        "minValue": 3,
+        "maxValue": 4
+      },
+      "minDistanceOfSmallIslandsFromLand": {
+        "minValue": 1,
+        "maxValue": 1
+      },
+      "numberOfSmallIslandLandTiles": {
+        "minValue": 2,
+        "maxValue": 2
+      },
+      "numberOfSecondaryMountainRange": {
+        "minValue": 1,
+        "maxValue": 2
+      },
+      "lengthOfSecondaryMountainRange": {
+        "minValue": 2,
+        "maxValue": 4
+      },
+      "hillCreationProbabilityAtMountainTile": 25,
+      "hillCreationProbabilityBesideMountainTile": 10,
+      "numberOfLakes": {
+        "minValue": 2,
+        "maxValue": 4
+      },
+      "numberOfSwamps": {
+        "minValue": 2,
+        "maxValue": 2
+      },
+      "riverOriginDistanceFromCoast": {
+        "minValue": 2,
+        "maxValue": 3
+      },
+      "numberOfRivers": {
+        "minValue": 3,
+        "maxValue": 4
+      },
+      "numberOfRiverBranches": {
+        "minValue": 1,
+        "maxValue": 3
+      },
+      "riverBranchOriginDistanceFromCoast": {
+        "minValue": 1,
+        "maxValue": 1
+      },
+      "mandatoryRivers": [
+        {
+          "riverOriginChunks": [
+            {"x": 11, "y": 1},
+            {"x": 12, "y": 1}
+          ],
+          "riverMouthChunks": [
+            {"x": 8, "y": 3},
+            {"x": 9, "y": 3},
+            {"x": 8, "y": 4},
+            {"x": 4, "y": 4}
+          ]
+        },
+        {
+          "riverOriginChunks": [
+            {"x": 12, "y": 0},
+            {"x": 12, "y": 1}
+          ],
+          "riverMouthChunks": [
+            {"x": 14, "y": 0},
+            {"x": 14, "y": 1},
+            {"x": 15, "y": 0}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "gameTextFieldDescriptiveDatas": 
+  [
+    {
+      "label": "setUpNewGame",
+      "text": "German Set Up New Game"
+    },
+    {
+      "label": "selectRegion",
+      "text": "German Select Region"
+    },
+    {
+      "label": "selectedRegion",
+      "text": "German Selected Region"
+    },
+    {
+      "label": "nation",
+      "text": "German Nation"
+    },
+    {
+      "label": "difficulty",
+      "text": "German Difficulty"
+    }
+  ]
+}

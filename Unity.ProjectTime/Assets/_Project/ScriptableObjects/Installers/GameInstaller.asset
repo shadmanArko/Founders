@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eb948703b6d64ef7a5025956c2c6131, type: 3}
+  m_Name: GameInstaller
+  m_EditorClassIdentifier: 
+  tileMapInitializingDataContainer: {fileID: 11400000, guid: ad9186739ebd14b2f92326264317a28a,
+    type: 2}
+  pathfinderGridDataContainer: {fileID: 11400000, guid: fe751bd9f11414f4eb2758c20feeb348,
+    type: 2}
+  variablesForMapSeed: {fileID: 11400000, guid: b0bfd2e05aaf81d4b94ca3f696ad70f3,
+    type: 2}
+  mapCanvas: {fileID: 2348823800038758515, guid: 3fe5e9e29f5a6ef468995c72bd327a17,
+    type: 3}
+  unitPathViewer: {fileID: 7257121322559551518, guid: 6d1308eafa6656a42964a370bd4e58af,
+    type: 3}
+  resourcesContainer: {fileID: 11400000, guid: 3fa49524a01ac3c45a9c9f0274519a82, type: 2}
+  resourcesDescriptiveDataContainer: {fileID: 11400000, guid: dc356bc588eb84a46a06babd286a24c5,
+    type: 2}
+  terrainDescriptiveDataSo: {fileID: 11400000, guid: e6bd5cf92ba016e43b3f2e8be0cffc6e,
+    type: 2}
+  elevationDescriptiveDataSo: {fileID: 11400000, guid: 34b916d5ea0f30649b6614cfdf25a62a,
+    type: 2}
+  featureDescriptiveDataSo: {fileID: 11400000, guid: f1529381c1f28314b948792329655637,
+    type: 2}
+  popNavigatorPopDetailsViewerDescriptiveDataSo: {fileID: 11400000, guid: f4d31b7b148419341a9049f3bb6ad521,
+    type: 2}
+  subcontinentsContainer: {fileID: 11400000, guid: 37e2966bb55c23b42bd7faee9b21cacf,
+    type: 2}
+  namingSetsContainer: {fileID: 11400000, guid: 4415539062181554885d3e345ef67b9e,
+    type: 2}
+  startingConditionsFunctionalDataSo: {fileID: 11400000, guid: b8c17599bc489e1488659f73022c8dc7,
+    type: 2}
+  settingsDataContainer: {fileID: 11400000, guid: ab3ace310c26353429577a3ce54461e2,
+    type: 2}
+  clanCoreNameGeneratorDataContainerScriptableObject: {fileID: 11400000, guid: 4a6eaf1e41fc4fc45b1470b2fec7a834,
+    type: 2}
+  saveDataScriptableObject: {fileID: 11400000, guid: 2e8c3601f9902534a971845c610ecc91,
+    type: 2}
+  raisedUnitPrefabsSo: {fileID: 11400000, guid: 232818c29fbe9f74284d0a7f82a6b79f,
+    type: 2}
+  buildingPrefabContainerScriptableObject: {fileID: 11400000, guid: 8a075d1f1c3ce4d4794e2c0478ca6b7d,
+    type: 2}
+  buildingVariationsContainer: {fileID: 11400000, guid: 1368dbdb710b06342bf58aadac85a6d9,
+    type: 2}
+  buildingCoreDataContainer: {fileID: 11400000, guid: e635c8897b4f83442803065467a525f5,
+    type: 2}
+  resourcePrefabsContainerSo: {fileID: 11400000, guid: cbd42b6c8e9d415478e1df6803c362ae,
+    type: 2}
+  newGameSettingsData: {fileID: 11400000, guid: 4645ada08dd3e3d4ba56677035ef61ad,
+    type: 2}
+  dateTimeSpeedCalenderCanvasView: {fileID: -242958907325575137, guid: d049f28ab0f9b2745b6db337bb24bb56,
+    type: 3}
+  leftPanelCanvasView: {fileID: 4055275559977231631, guid: 5394d77e16ae7c5498d97d94fc14f93f,
+    type: 3}
+  popNavigatorCanvasView: {fileID: -7172397547935409145, guid: 55aa53726efa50e46b342fca46c24b07,
+    type: 3}
+  bottomPanelCanvasView: {fileID: -3462593778676868269, guid: 137ec24f1e5114b47be99dded20d892c,
+    type: 3}
+  popCardView: {fileID: 472730278604192755, guid: e7580bb0f1300b14d89d9999854d7213,
+    type: 3}
+  raisedUnitSettlerArrangementCanvasView: {fileID: 4544018910946613644, guid: 1cad1cef8d25ff34fb5f9e38f84b22c6,
+    type: 3}
+  raisedUnitArmyArrangementCanvasView: {fileID: 92849132578582902, guid: 1e485976079cd4343a6838a374843b7c,
+    type: 3}
+  tileInfoPanelView: {fileID: 7226462846317100938, guid: 29bb5423f281797469d96875d0eaa0de,
+    type: 3}
+  miniMapView: {fileID: 5234845916675763548, guid: d5ed18eb7b14ae1478d3bb30d9839016,
+    type: 3}

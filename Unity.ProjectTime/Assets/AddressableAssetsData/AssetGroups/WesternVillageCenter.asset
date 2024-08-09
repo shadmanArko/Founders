@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WesternVillageCenter
+  m_EditorClassIdentifier: 
+  m_GroupName: WesternVillageCenter
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 97856697a6a93904280794df912c7082
+  m_SerializeEntries:
+  - m_GUID: c1b4130d45df00e47accc41b9fd17aba
+    m_Address: Assets/_Project/Arts/2D/Prototype/Buildings/village centre/Village
+      Centre Building 1st Row.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a6b8b5a743b3304e950615d34a8f43a
+    m_Address: Assets/_Project/Arts/2D/Prototype/Buildings/village centre/Village
+      Centre Building 2nd Row.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2673053644b4f6c47a537e0a1923388d
+    m_Address: Assets/_Project/Arts/2D/Prototype/Buildings/village centre/Village
+      Centre Building 3rd Row.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 93be8f73b48d0b143869bd59e08d8d90, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f380f343473ba8c45906f6ce46c90ea8, type: 2}
+    - {fileID: 11400000, guid: ab9651551f96da443ab13687746b5870, type: 2}

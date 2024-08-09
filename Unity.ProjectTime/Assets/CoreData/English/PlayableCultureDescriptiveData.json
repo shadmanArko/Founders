@@ -1,0 +1,21 @@
+{
+  "playableCultureDescriptiveDatas": 
+  [
+    {
+      "label": "han",
+      "name": "Han"
+    }, 
+    {
+      "label": "gothia",
+      "name": "Gothia"
+    },
+    {
+      "label": "alemannia",
+      "name": "Alemannia"
+    },
+    {
+      "label": "assyria",
+      "name": "Assyria"
+    }
+  ]
+}

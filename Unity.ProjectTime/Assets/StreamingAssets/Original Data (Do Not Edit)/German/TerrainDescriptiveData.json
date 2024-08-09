@@ -1,0 +1,32 @@
+{
+  "terrainDescriptiveDatas": 
+  [
+    {
+      "label": "grassland",
+      "name": "GermanGrassland"
+    }, 
+    {
+    "label": "ocean",
+    "name": "GermanOcean"
+    },
+    {
+      "label": "coast",
+      "name": "GermanCoast"
+    },{
+    "label": "tundra",
+    "name": "GermanTundra"
+    },
+    {
+    "label": "dryland",
+    "name": "GermanDryland"
+    },
+    {
+    "label": "desert",
+    "name": "GermanDessert"
+    },
+    {
+    "label": "plains",
+    "name": "GermanPlains"
+  }
+  ]
+}

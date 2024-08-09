@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Surface
+  m_EditorClassIdentifier: 
+  m_GroupName: Surface
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b5844063ea69ad44ca605b0681178b99
+  m_SerializeEntries:
+  - m_GUID: e0e462cb351c9b940a095066b9b43326
+    m_Address: Assets/_Project/Arts/2D/Prototype/Surface/surface.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 93be8f73b48d0b143869bd59e08d8d90, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c4778b26db176a549bc24be34452d268, type: 2}
+    - {fileID: 11400000, guid: 032d5be2fe2cf614f8039734b1b2f718, type: 2}

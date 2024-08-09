@@ -1,0 +1,15 @@
+{
+  "naturalResourceDescriptiveDatas":
+  [
+    {
+      "label": "rice",
+      "name": "GermanRice",
+      "description": "GermanStaple"
+    },
+    {
+      "label": "corn",
+      "name": "GermanCorn",
+      "description": "GermanStaple"
+    }
+  ]
+}

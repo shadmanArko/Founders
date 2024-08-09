@@ -1,0 +1,33 @@
+{
+  "terrainDescriptiveDatas": 
+  [
+    {
+      "label": "grassland",
+      "name": "Grassland"
+    }, 
+    {
+    "label": "ocean",
+    "name": "Ocean"
+    },
+    {
+      "label": "coast",
+      "name": "Coast"
+    },
+    {
+    "label": "tundra",
+    "name": "Tundra"
+    },
+    {
+    "label": "dryland",
+    "name": "Dryland"
+    },
+    {
+    "label": "desert",
+    "name": "Dessert"
+    },
+    {
+    "label": "plains",
+    "name": "Plains"
+  }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "gameTextFieldDescriptiveDatas":
+  [
+    {
+      "label": "physicalProwess",
+      "text": "Physical Prowess: "
+    },
+    {
+      "label": "educationalTradition",
+      "text": "Educational Tradition: "
+    },
+    {
+      "label": "spiritualKnowledge",
+      "text": "Spiritual Knowledge: "
+    },
+    {
+      "label": "popSize",
+      "text": "Pop Size: "
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\Test02\Test02\bin\Debug\Test02.dll
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\Test02\Test02\bin\Debug\Test02.pdb
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\Test02\Test02\obj\Debug\Test02.csproj.AssemblyReference.cache
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\Test02\Test02\obj\Debug\Test02.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\Test02\Test02\obj\Debug\Test02.dll
+C:\Users\User\Documents\_Work_Dont Touch\_Unity Projects\ProjectTime\Mods\01\Code\Test02\Test02\obj\Debug\Test02.pdb

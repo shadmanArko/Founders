@@ -1,0 +1,29 @@
+{
+  "featureDescriptiveDatas": 
+  [
+    {
+      "label": "jungle",
+      "name": "GermanJungle"
+    }, 
+    {
+    "label": "forest",
+    "name": "Germanforest"
+    },
+    {
+      "label": "lake",
+      "name": "GermanLake"
+    },
+    {
+    "label": "swamps",
+    "name": "GermanSwamp"
+    },
+    {
+    "label": "",
+    "name": "German No Feature"
+  },
+    {
+      "label": null,
+      "name": "German Null Feature"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564eb7cf7c524ff0be0e116d3b43984a, type: 3}
+  m_Name: BuildingPrefabContainer
+  m_EditorClassIdentifier: 
+  smallBuilding: {fileID: 2136553887700548451, guid: ff043cb64caa37b43ac2598eb31d4741,
+    type: 3}
+  mediumBuilding: {fileID: 2136553887700548451, guid: c65f55678aad56e4485707816f31b974,
+    type: 3}
+  largeBuilding: {fileID: 2687950042676403196, guid: ef14193d6255c344ba53483ca517fc08,
+    type: 3}
+  extraLargeBuilding: {fileID: 2687950042676403196, guid: f517d2b34be6ec148961e61a806451c7,
+    type: 3}

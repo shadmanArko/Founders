@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.ASP.NET.ProjectTime.iml
+# Datasource local storage ignored files
+/../../../../../../../:\_Red Thron Interactive\ProjectTime\ASP.NET.ProjectTime\.idea\.idea.ASP.NET.ProjectTime\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

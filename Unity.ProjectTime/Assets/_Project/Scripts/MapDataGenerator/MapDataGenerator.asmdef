@@ -1,0 +1,20 @@
+{
+    "name": "MapDataGenerator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:876d8395d35ed1e4abcd07203f1f6335",
+        "GUID:fbe77266b6e43cc46a999fa71d8c7325",
+        "GUID:29d97f564e4b9af42a2a3dd67789f072",
+        "GUID:21b0c8d1703a94250bfac916590cea4f",
+        "GUID:7a1e9f43f4fd7204e87c59065aad9634"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

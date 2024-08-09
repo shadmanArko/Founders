@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WesternField
+  m_EditorClassIdentifier: 
+  m_GroupName: WesternField
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4c1c255444235d84badf4c2d1e9ee2b2
+  m_SerializeEntries:
+  - m_GUID: dab3daecedde4864a9e83e770b8379cd
+    m_Address: Assets/_Project/AddressableAssets/Buildings/Western/western field
+      1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1047f3e60e0c66945b817b0a91cff5ac
+    m_Address: Assets/_Project/AddressableAssets/Buildings/Western/western field
+      2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c52483993485be448b316daedbf3259
+    m_Address: Assets/_Project/AddressableAssets/Buildings/Western/western field
+      3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 93be8f73b48d0b143869bd59e08d8d90, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 885186731b1609b4c9c7a8ec9abc96e2, type: 2}
+    - {fileID: 11400000, guid: f9f490d4b42f47043982fc464e737e0e, type: 2}

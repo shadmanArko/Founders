@@ -1,0 +1,29 @@
+{
+  "featureDescriptiveDatas": 
+  [
+    {
+      "label": "jungle",
+      "name": "Jungle"
+    }, 
+    {
+    "label": "forest",
+    "name": "forest"
+    },
+    {
+      "label": "lake",
+      "name": "Lake"
+    },
+    {
+    "label": "swamps",
+    "name": "Swamp"
+    },
+    {
+      "label": "",
+      "name": "No Feature"
+    },
+    {
+      "label": null,
+      "name": "Null Feature"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: IndoPersianGranary
+  m_EditorClassIdentifier: 
+  m_GroupName: IndoPersianGranary
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 90a773d984ee54a46be1378bf80270c6
+  m_SerializeEntries:
+  - m_GUID: 3f618c11e04a35d4d9e220973ac727fc
+    m_Address: Assets/_Project/AddressableAssets/Buildings/IndoPersian/Indo persian
+      granary 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 93be8f73b48d0b143869bd59e08d8d90, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 10702a21d6ccf734cb952d678e2f3252, type: 2}
+    - {fileID: 11400000, guid: 603ee5483aaad0347aef16c617581196, type: 2}

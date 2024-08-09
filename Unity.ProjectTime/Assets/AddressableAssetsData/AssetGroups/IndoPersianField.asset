@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: IndoPersianField
+  m_EditorClassIdentifier: 
+  m_GroupName: IndoPersianField
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7b3f2b6473595e24e96475b3e92d390e
+  m_SerializeEntries:
+  - m_GUID: 2472ad9aabc13eb419d1cb2b4b8e5e6c
+    m_Address: Assets/_Project/Arts/2D/Prototype/Buildings/Field/Indo persian/indo
+      persian field 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ce9ab920cfdbec499f2cd8a5840ffba
+    m_Address: Assets/_Project/Arts/2D/Prototype/Buildings/Field/Indo persian/indo
+      persian field 2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6dbc61c5349582741a4994e4e5af050b
+    m_Address: Assets/_Project/Arts/2D/Prototype/Buildings/Field/Indo persian/Indo
+      persian field 3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 93be8f73b48d0b143869bd59e08d8d90, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7c1f3b7bbb95e764bba8c4e1d879fa66, type: 2}
+    - {fileID: 11400000, guid: cec385a88051c5e4bba3915625857fa5, type: 2}

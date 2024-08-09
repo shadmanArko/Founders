@@ -1,0 +1,10 @@
+{
+  "totalStaringClans": 3,
+  "startingPopsInEachClan": 1,
+  "excessPopInFirstClan": 1,
+  "minimumTotalStatsPerPop": 24,
+  "maximumTotalStatsPerPop": 26,
+  "minimumStatInBest": 9,
+  "minimumStartingHappiness": 4,
+  "maximumStartingHappiness": 9
+}

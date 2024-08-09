@@ -1,0 +1,1450 @@
+{
+  "resources":[
+    {
+      "Id":null,
+      "Name":"Rice",
+      "Category":"Staple",
+      "IconName":"rice",
+      "resourceLocationsList":[
+        {
+          "terrain":"grassland",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain":"grassland",
+          "hasFeature":1,
+          "feature":"swamps",
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding":"Farm",
+      "IsDepletable":0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Rice"
+      ]
+    },
+    {
+      "Id":null,
+      "Name":"Corn",
+      "Category":"Staple",
+      "IconName":"corn",
+      "resourceLocationsList":[
+        {
+          "terrain":"grassland",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain":"plains",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain":"grassland",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain":"plains",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain":"dryland",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding":"Farm",
+      "IsDepletable":0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Corn"
+      ]
+    },
+    {
+      "Id":null,
+      "Name":"Wheat",
+      "Category":"Staple",
+      "IconName":"wheat",
+      "resourceLocationsList":[
+        {
+          "terrain":"plains",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain":"grassland",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain":"dryland",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding":"Farm",
+      "IsDepletable":0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Wheat"
+      ]
+    },
+    {
+      "Id":null,
+      "Name":"Sorghum",
+      "Category":"Staple",
+      "IconName":"sorghum",
+      "resourceLocationsList":[
+        {
+          "terrain":"dryland",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain":"dryland",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding":"Farm",
+      "IsDepletable":0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Sorghum"
+      ]
+    },
+    {
+      "Id":null,
+      "Name":"Potatoes",
+      "Category":"Staple",
+      "IconName":"potatoes",
+      "resourceLocationsList":[
+        {
+          "terrain":"plains",
+          "hasFeature":0,
+          "feature":null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain":"grassland",
+          "hasFeature":1,
+          "feature":"jungle",
+          "elevationType": "flat"
+        },
+        {
+          "terrain":"grassland",
+          "hasFeature":1,
+          "feature":"jungle",
+          "elevationType": "hill"
+        },
+        {
+          "terrain":"grassland",
+          "hasFeature":1,
+          "feature":"forest",
+          "elevationType": "flat"
+        },
+        {
+          "terrain":"grassland",
+          "hasFeature":1,
+          "feature":"forest",
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding":"Farm",
+      "IsDepletable":0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Potatoes"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Tea",
+      "Category": "Other Rare",
+      "IconName": "tea",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Tea"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Coffee",
+      "Category": "Other Rare",
+      "IconName": "coffee",
+      "resourceLocationsList": [
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Coffee"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Chocolate",
+      "Category": "Other Rare",
+      "IconName": "chocolate",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "flat"
+        },{
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Chocolate"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Spices",
+      "Category": "Other Rare",
+      "IconName": "spices",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"swamp",
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Gathering Hut",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Spices"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Chili",
+      "Category": "Other Edibles",
+      "IconName": "chili",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Chili"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Pepper",
+      "Category": "Other Rare",
+      "IconName": "pepper",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Gathering Hut",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Pepper"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Incense",
+      "Category": "Must Haves",
+      "IconName": "incense",
+      "resourceLocationsList": [
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature": "Any",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature": "Any",
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Incense"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Cotton",
+      "Category": "Textile",
+      "IconName": "cotton",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Cotton"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Hemp",
+      "Category": "Textile",
+      "IconName": "hemp",
+      "resourceLocationsList": [
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Hemp"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Olives",
+      "Category": "Other Edibles",
+      "IconName": "olives",
+      "resourceLocationsList": [
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Olives"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Citrus",
+      "Category": "Other Rare",
+      "IconName": "citrus",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Farm",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Citrus"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Dyes",
+      "Category": "Textile",
+      "IconName": "dyes",
+      "resourceLocationsList": [
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Dyes"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Sugar",
+      "Category": "Other Rare",
+      "IconName": "sugar",
+      "resourceLocationsList": [
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Sugar"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Grapes",
+      "Category": "Other Edibles",
+      "IconName": "grapes",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Grapes"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Berries",
+      "Category": "Other Edibles",
+      "IconName": "berries",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Gathering Hut",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Berries"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Cows",
+      "Category": "Edible Animals",
+      "IconName": "cows",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Fields",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 1,
+      "TradeGoods": [
+        "Beef",
+        "Leather"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Sheep",
+      "Category": "Edible Animals",
+      "IconName": "sheep",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "tundra",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "desert",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Fields",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Mutton",
+        "Sheep Wool"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Goats",
+      "Category": "Edible Animals",
+      "IconName": "goats",
+      "resourceLocationsList": [
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Fields",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Mutton",
+        "Leather"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Horses",
+      "Category": "Work Animals",
+      "IconName": "horses",
+      "resourceLocationsList": [
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Fields",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 1,
+      "TradeGoods": [
+        "Horse Meat",
+        "Leather"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Donkeys",
+      "Category": "Work Animals",
+      "IconName": "donkeys",
+      "resourceLocationsList": [
+        {
+          "terrain": "plains",
+          "hasFeature": 1,
+          "feature": "Any",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 1,
+          "feature": "Any",
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Fields",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 1,
+      "TradeGoods": []
+    },
+    {
+      "Id": null,
+      "Name": "Camels",
+      "Category": "Work Animals",
+      "IconName": "camels",
+      "resourceLocationsList": [
+        {
+          "terrain": "desert",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Fields",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 1,
+      "TradeGoods": [
+        "Camel Meat"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Honey",
+      "Category": "Other Edibles",
+      "IconName": "honey",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Honey"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Fish",
+      "Category": "Water Generics",
+      "IconName": "fish",
+      "resourceLocationsList": [
+        {
+          "terrain": "Coast",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Fishing Boats",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Fish"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Whales",
+      "Category": "Water Luxuries",
+      "IconName": "whales",
+      "resourceLocationsList": [
+        {
+          "terrain": "Coast",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Fishing Boats",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Whale Meat",
+        "Ivory"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Elephants",
+      "Category": "Work Animals",
+      "IconName": "elephants",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Gathering Huts",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 1,
+      "TradeGoods": [
+        "Ivory"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Wild Game",
+      "Category": "Other Edibles",
+      "IconName": "wildgame",
+      "resourceLocationsList": [
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "tundra",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "tundra",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "Snow",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Gathering Huts",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Game Meat",
+        "Fur"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Shellfish",
+      "Category": "Water Generics",
+      "IconName": "shellfish",
+      "resourceLocationsList": [
+        {
+          "terrain": "Coast",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Fishing Boats",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Crab"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Pearls",
+      "Category": "Water Luxuries",
+      "IconName": "pearls",
+      "resourceLocationsList": [
+        {
+          "terrain": "Coast",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Fishing Boats",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Pearls"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Silks",
+      "Category": "Textile",
+      "IconName": "silks",
+      "resourceLocationsList": [
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature": "Forests",
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Plantation",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Silk"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Llamas",
+      "Category": "Work Animals",
+      "IconName": "llamas",
+      "resourceLocationsList": [
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Fields",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 1,
+      "TradeGoods": [
+        "Llama Meat",
+        "Llama Wool"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Pigs",
+      "Category": "Edible Animals",
+      "IconName": "pigs",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Fields",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Pork"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Copper",
+      "Category": "Must Haves",
+      "IconName": "copper",
+      "resourceLocationsList": [
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Copper"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Tin",
+      "Category": "Other Rare",
+      "IconName": "tin",
+      "resourceLocationsList": [
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 1,
+          "feature": "Forests",
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Tin"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Iron",
+      "Category": "Must Haves",
+      "IconName": "iron",
+      "resourceLocationsList": [
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Iron"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Marble",
+      "Category": "Precious Minables",
+      "IconName": "marble",
+      "resourceLocationsList": [
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Marble"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Stone",
+      "Category": "Must Haves",
+      "IconName": "stone",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "desert",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Building Material"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Amber",
+      "Category": "Precious Minables",
+      "IconName": "amber",
+      "resourceLocationsList": [
+        
+        {
+          "terrain": "plains",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Amber"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Silver",
+      "Category": "Precious Minables",
+      "IconName": "silver",
+      "resourceLocationsList": [
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "desert",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Silver"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Gold",
+      "Category": "Precious Minables",
+      "IconName": "gold",
+      "resourceLocationsList": [
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "AnyLand",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Gold"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Gems",
+      "Category": "Precious Minables",
+      "IconName": "gems",
+      "resourceLocationsList": [
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "drylands",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Gems"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Jade",
+      "Category": "Precious Minables",
+      "IconName": "jade",
+      "resourceLocationsList": [
+       
+        {
+          "terrain": "plains",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "tundra",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "tundra",
+          "hasFeature": 1,
+          "feature":"forest",
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "hill"
+        },
+        {
+          "terrain": "grassland",
+          "hasFeature": 1,
+          "feature":"jungle",
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Jade [Precious Goods]"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Salt",
+      "Category": "Other Edibles",
+      "IconName": "salt",
+      "resourceLocationsList": [
+        {
+          "terrain": "desert",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 0,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Salt"
+      ]
+    },
+    {
+      "Id": null,
+      "Name": "Lapis Lazuli",
+      "Category": "Precious Minables",
+      "IconName": "lapislazuli",
+      "resourceLocationsList": [
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "flat"
+        },
+        {
+          "terrain": "dryland",
+          "hasFeature": 0,
+          "feature": null,
+          "elevationType": "hill"
+        }
+      ],
+      "ExtractionBuilding": "Mine",
+      "IsDepletable": 1,
+      "GivesWorkAnimalModifier": 0,
+      "TradeGoods": [
+        "Lapis Lazuli"
+      ]
+    }
+  ]
+}
